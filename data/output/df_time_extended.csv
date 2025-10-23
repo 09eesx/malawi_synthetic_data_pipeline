@@ -1,0 +1,1001 @@
+latitude,longitude,incident_cause,injury_type,value,datetime,description
+-16.69287954237065,34.90207517122758,Heavy equipment accident,Serious Injury,155,2019-06-18 22:44:20,Multiple vehicle accident
+-11.190248114720742,35.27422886936702,Crop fire,Fatalities,289,2019-06-26 10:46:24,Pedestrian hit
+-14.566810253586906,34.910130243035056,Drought impact,Fatalities,17,2019-06-12 07:04:17,Roadside emergency
+-14.648886334124814,33.619445099505604,Flood damage,Minor Injury,932,2019-06-07 15:32:05,Multiple vehicle accident
+-13.295117568444319,34.8246064302386,Heavy equipment accident,Minor Injury,1133,2019-06-16 18:44:53,Pedestrian hit
+-16.339990972838503,35.1653337636396,Crop fire,Moderate Injury,1019,2019-06-27 09:30:37,Traffic jam due to accident
+-10.004220372647358,34.262114927159715,Snake bite,Serious Injury,193,2019-06-19 23:11:52,Traffic jam due to accident
+-10.77115004511817,33.81506235435468,Pesticide poisoning,Fatalities,136,2019-06-09 14:18:08,Single vehicle crash
+-12.61471025616147,34.22369285269819,Chemical burn,Moderate Injury,788,2019-06-23 11:07:34,Vehicle collision
+-15.070156277758732,32.670570304456106,Animal attack,Moderate Injury,1472,2019-06-03 05:07:54,Vehicle collision
+-9.68191644530726,35.215176796682904,Chemical burn,Serious Injury,309,2019-06-02 17:48:08,Multiple vehicle accident
+-9.099210941054736,33.792938110946636,Crop fire,Fatalities,114,2019-06-16 04:00:49,Pedestrian hit
+-15.240495400602358,34.65873866914753,Pesticide poisoning,Moderate Injury,964,2019-06-10 16:27:27,Multiple vehicle accident
+-14.338407171749687,34.417550105916206,Crop fire,Serious Injury,206,2019-06-05 12:42:41,Roadside emergency
+-9.977023829956131,33.49831169739732,Drought impact,Serious Injury,43,2019-06-07 14:59:12,Hit and run
+-8.841098301356507,35.649291465599866,Snake bite,Fatalities,221,2019-06-28 08:51:54,Road accident
+-13.396780920902389,35.317301406478535,Pesticide poisoning,Minor Injury,85,2019-06-25 19:21:57,Single vehicle crash
+-10.455419872858908,33.65825521092422,Animal attack,Fatalities,94,2019-06-03 19:04:18,Vehicle collision
+-16.0552781883148,34.252107757087174,Crop fire,Serious Injury,395,2019-06-14 16:21:11,Road accident
+-12.314271348747102,32.0689946363373,Animal attack,Serious Injury,54,2019-06-22 04:03:16,Roadside emergency
+-15.137421396128268,33.76657069289851,Heavy equipment accident,Moderate Injury,476,2019-06-11 13:32:22,Road accident
+-10.292001430368288,31.773070386025747,Crop fire,Fatalities,185,2019-06-01 07:58:31,Hit and run
+-14.937993498890759,35.461160318578685,Animal attack,Minor Injury,380,2019-06-15 15:14:55,Road accident
+-14.96489331143172,33.523806101258145,Machinery malfunction,Minor Injury,676,2019-06-15 12:48:34,Road accident
+-11.124663520998778,32.381634683628185,Falling from tractor,Moderate Injury,677,2019-06-05 01:43:57,Single vehicle crash
+-11.966475811614576,32.3415488501236,Pesticide poisoning,Fatalities,228,2019-06-14 02:59:20,Hit and run
+-15.807805330225834,32.73299816907957,Drought impact,Minor Injury,1317,2019-06-24 08:55:20,Vehicle collision
+-9.922105879736916,34.13857183462888,Drought impact,Serious Injury,165,2019-06-16 15:58:45,Hit and run
+-14.43248783138437,34.86969903669104,Machinery malfunction,Minor Injury,1284,2019-06-12 00:31:17,Vehicle collision
+-12.185619522474171,35.046306797352415,Machinery malfunction,Fatalities,38,2019-06-21 09:23:01,Roadside emergency
+-11.93771000459843,33.80948129274929,Drought impact,Serious Injury,252,2019-06-20 19:09:01,Single vehicle crash
+-12.925701075655438,35.06393927029666,Falling from tractor,Minor Injury,349,2019-06-27 15:53:22,Vehicle collision
+-15.1275970783882,34.32703566376872,Pesticide poisoning,Serious Injury,353,2019-06-06 21:42:15,Road accident
+-8.907056564196823,33.43312838885396,Falling from tractor,Minor Injury,705,2019-06-08 00:31:47,Pedestrian hit
+-15.439299497190511,33.229146712307646,Falling from tractor,Moderate Injury,1418,2019-06-05 00:17:16,Road accident
+-10.168814868099076,31.74465044113691,Pesticide poisoning,Fatalities,178,2019-06-05 15:25:49,Traffic jam due to accident
+-15.492143378926524,34.36632769930111,Crop fire,Minor Injury,1320,2019-06-11 11:11:59,Pedestrian hit
+-12.401518859419628,34.85007542600988,Pesticide poisoning,Minor Injury,28,2019-06-21 20:20:09,Vehicle collision
+-14.904717100932045,35.213726365285545,Falling from tractor,Fatalities,174,2019-06-01 09:17:43,Roadside emergency
+-8.922897697480035,33.64539657261079,Falling from tractor,Serious Injury,332,2019-06-11 00:49:44,Single vehicle crash
+-16.123987153168432,33.2247453256828,Flood damage,Serious Injury,103,2019-06-01 03:38:27,Traffic jam due to accident
+-13.766144249739876,32.219080863020515,Flood damage,Serious Injury,250,2019-06-11 15:49:32,Single vehicle crash
+-9.419578600490885,32.002329101549066,Flood damage,Moderate Injury,541,2019-06-23 05:40:41,Traffic jam due to accident
+-15.136601346965499,32.94599897054425,Drought impact,Fatalities,117,2019-06-05 02:36:10,Hit and run
+-9.741837123406393,33.50029950802845,Heavy equipment accident,Serious Injury,398,2019-06-06 08:44:43,Road accident
+-14.691473886699976,34.626317792337026,Flood damage,Serious Injury,311,2019-06-14 23:10:41,Multiple vehicle accident
+-14.487810079479413,34.59603166301898,Machinery malfunction,Moderate Injury,1244,2019-06-04 22:37:08,Single vehicle crash
+-11.053398586960672,33.15201388135649,Heavy equipment accident,Minor Injury,966,2019-06-25 22:18:43,Single vehicle crash
+-12.162743823243513,32.239960035594606,Pesticide poisoning,Fatalities,267,2019-06-19 07:59:04,Single vehicle crash
+-15.059368206564624,34.40522209487594,Animal attack,Fatalities,240,2019-06-23 20:04:34,Road accident
+-9.585503006243417,35.124661740687806,Heavy equipment accident,Moderate Injury,95,2019-06-09 13:37:51,Traffic jam due to accident
+-11.105685006895143,33.171272353729535,Machinery malfunction,Fatalities,266,2019-06-17 10:19:32,Traffic jam due to accident
+-11.367845736756575,31.772988379978067,Snake bite,Moderate Injury,1193,2019-06-29 01:25:23,Single vehicle crash
+-14.94051964180878,33.370235812213046,Flood damage,Fatalities,107,2019-06-16 12:48:42,Road accident
+-16.646090604164847,34.75302979586443,Flood damage,Serious Injury,157,2019-06-17 23:41:30,Single vehicle crash
+-16.72953414606602,31.74666338550719,Animal attack,Moderate Injury,293,2019-06-02 22:14:36,Vehicle collision
+-10.316380342610298,34.263440188468785,Pesticide poisoning,Serious Injury,166,2019-06-02 21:03:08,Traffic jam due to accident
+-14.519247195899165,33.65263501340005,Flood damage,Serious Injury,337,2019-06-20 14:04:35,Traffic jam due to accident
+-12.270134867708663,33.697212766177685,Falling from tractor,Fatalities,70,2019-06-09 06:26:33,Roadside emergency
+-9.086907419798244,34.52255133645654,Falling from tractor,Fatalities,40,2019-06-21 00:47:48,Vehicle collision
+-14.729226943759196,31.992981491616195,Crop fire,Minor Injury,83,2019-06-17 14:23:42,Traffic jam due to accident
+-14.264520530499212,32.911145720093884,Drought impact,Fatalities,39,2019-06-22 03:13:07,Hit and run
+-15.049300996803938,33.29777998779976,Animal attack,Moderate Injury,366,2019-06-05 13:25:30,Road accident
+-14.375213307450739,33.079557400675256,Snake bite,Moderate Injury,164,2019-06-15 20:40:20,Multiple vehicle accident
+-15.678054186139466,32.66948779393048,Falling from tractor,Minor Injury,878,2019-06-28 23:08:12,Traffic jam due to accident
+-10.208989048543877,32.2335375689664,Animal attack,Serious Injury,241,2019-06-16 20:19:48,Hit and run
+-15.598068170932947,31.726782257678085,Flood damage,Serious Injury,152,2019-06-12 19:54:20,Road accident
+-10.03785189012935,31.954148328678237,Pesticide poisoning,Moderate Injury,1123,2019-06-20 09:44:20,Multiple vehicle accident
+-12.680764222082903,35.42260681301914,Animal attack,Minor Injury,127,2019-06-11 06:45:41,Vehicle collision
+-8.81666713934868,32.04284325458235,Flood damage,Serious Injury,339,2019-06-23 22:34:28,Hit and run
+-9.840196677799435,34.757060488877634,Crop fire,Minor Injury,614,2019-06-15 06:08:07,Pedestrian hit
+-9.77947886007269,31.729377282602254,Pesticide poisoning,Moderate Injury,120,2019-06-05 09:35:17,Single vehicle crash
+-9.057715434692943,35.61653339346448,Snake bite,Minor Injury,311,2019-06-25 12:18:28,Single vehicle crash
+-13.979177011052757,34.39903314345642,Snake bite,Moderate Injury,199,2019-06-28 00:59:40,Hit and run
+-14.0555021706789,32.70123042956661,Chemical burn,Moderate Injury,398,2019-06-06 09:53:10,Roadside emergency
+-14.581984863212039,33.281419629210454,Machinery malfunction,Serious Injury,389,2019-06-28 11:31:01,Traffic jam due to accident
+-13.497208813832467,32.447927489946856,Crop fire,Fatalities,59,2019-06-29 13:35:20,Single vehicle crash
+-12.981634734378813,35.43815874619647,Snake bite,Serious Injury,302,2019-06-15 13:55:04,Single vehicle crash
+-13.623672912886228,31.769869288154826,Pesticide poisoning,Moderate Injury,619,2019-06-18 07:33:22,Traffic jam due to accident
+-11.06005683464711,32.07409714683009,Drought impact,Moderate Injury,1289,2019-06-28 10:37:46,Roadside emergency
+-15.27996462526991,33.904325341303,Flood damage,Moderate Injury,209,2019-06-08 13:23:20,Vehicle collision
+-16.21694169675131,33.957304801644796,Falling from tractor,Moderate Injury,1240,2019-06-29 12:21:45,Multiple vehicle accident
+-16.52367274396244,33.92080089322869,Falling from tractor,Minor Injury,523,2019-06-06 08:43:16,Single vehicle crash
+-12.22516560529246,33.45897539208495,Pesticide poisoning,Serious Injury,28,2019-06-25 06:25:00,Single vehicle crash
+-14.893573365798073,34.84478016700231,Drought impact,Minor Injury,1288,2019-06-14 05:54:59,Vehicle collision
+-14.337571875402993,33.031818493203986,Snake bite,Fatalities,36,2019-06-01 06:08:42,Pedestrian hit
+-10.39846669099175,33.48772989347324,Chemical burn,Serious Injury,393,2019-06-05 23:38:49,Road accident
+-10.06665348559996,34.596657296799336,Machinery malfunction,Fatalities,137,2019-06-04 01:24:02,Multiple vehicle accident
+-9.813877246066852,34.263498143094225,Pesticide poisoning,Minor Injury,79,2019-06-20 17:10:59,Roadside emergency
+-12.555546696583658,33.91148229283275,Crop fire,Fatalities,124,2019-06-19 14:02:47,Pedestrian hit
+-14.970741131579462,35.475684837931034,Snake bite,Serious Injury,293,2019-06-06 02:29:06,Road accident
+-10.073416344520075,32.92366296113712,Flood damage,Minor Injury,22,2019-06-16 08:20:43,Pedestrian hit
+-9.759135662121778,33.67418724832567,Machinery malfunction,Serious Injury,32,2019-06-02 01:30:35,Vehicle collision
+-9.702398246494568,33.432813178815486,Machinery malfunction,Serious Injury,117,2019-06-20 17:39:13,Hit and run
+-16.62607121951321,35.60368408793841,Heavy equipment accident,Serious Injury,111,2019-06-15 14:43:02,Multiple vehicle accident
+-12.19763059068837,33.268829985436206,Crop fire,Moderate Injury,640,2019-06-06 07:49:18,Single vehicle crash
+-8.913078673253308,33.23173194244845,Chemical burn,Serious Injury,327,2019-06-27 12:12:40,Vehicle collision
+-11.798364512764753,32.04283288764219,Flood damage,Minor Injury,445,2019-06-22 21:10:42,Multiple vehicle accident
+-12.653208109555473,34.671521147128395,Animal attack,Fatalities,286,2019-06-28 06:25:09,Multiple vehicle accident
+-11.088229599501005,35.30053053633943,Machinery malfunction,Moderate Injury,372,2019-06-28 10:43:57,Single vehicle crash
+-12.461830625811597,33.44770657150464,Animal attack,Minor Injury,197,2019-06-04 18:54:00,Hit and run
+-13.133136360505796,33.86582675697064,Pesticide poisoning,Fatalities,104,2019-06-02 06:39:23,Vehicle collision
+-12.010542517575873,33.36378749387539,Chemical burn,Fatalities,106,2019-06-06 02:20:13,Traffic jam due to accident
+-13.3477784297356,32.40490657345198,Snake bite,Fatalities,103,2019-06-04 21:21:36,Road accident
+-9.169651193132852,33.90046564715044,Falling from tractor,Minor Injury,907,2019-06-05 09:07:33,Roadside emergency
+-11.159801384517888,34.35078281078836,Snake bite,Moderate Injury,1486,2019-06-23 22:40:07,Traffic jam due to accident
+-14.312892202900033,35.617064457258245,Animal attack,Serious Injury,159,2019-06-22 14:44:48,Vehicle collision
+-9.267640226728364,32.56277192295944,Animal attack,Serious Injury,218,2019-06-17 11:48:00,Hit and run
+-14.43140425139686,32.52319053247807,Animal attack,Moderate Injury,1392,2019-06-28 12:20:35,Pedestrian hit
+-9.648335681264708,34.22823564450601,Falling from tractor,Moderate Injury,1493,2019-06-20 12:49:27,Traffic jam due to accident
+-16.64044509906051,35.007004263866776,Chemical burn,Serious Injury,37,2019-06-18 00:01:37,Vehicle collision
+-16.40220603976836,34.29777299626315,Crop fire,Fatalities,185,2019-06-03 09:11:08,Hit and run
+-12.13799443037588,33.05440928159598,Chemical burn,Fatalities,194,2019-06-06 18:47:29,Vehicle collision
+-15.11913854544848,35.524966546839245,Crop fire,Serious Injury,23,2019-06-25 11:14:13,Traffic jam due to accident
+-12.146326457624744,33.2978540452733,Falling from tractor,Serious Injury,388,2019-06-02 18:30:20,Road accident
+-8.939966151748678,32.98525945097562,Machinery malfunction,Moderate Injury,395,2019-06-18 16:44:46,Road accident
+-11.800018185812664,35.15519711629331,Chemical burn,Moderate Injury,1033,2019-06-10 01:20:31,Road accident
+-10.279438905884435,31.838506841662653,Snake bite,Minor Injury,1472,2019-06-02 05:16:37,Pedestrian hit
+-11.590009258158556,33.81203214951968,Machinery malfunction,Moderate Injury,1045,2019-06-03 09:57:13,Single vehicle crash
+-9.308518261210633,33.888860996138696,Pesticide poisoning,Serious Injury,23,2019-06-17 11:10:30,Pedestrian hit
+-16.232184819627445,32.28588175907903,Animal attack,Fatalities,268,2019-06-19 18:20:35,Single vehicle crash
+-10.377946971636769,35.10654495541539,Flood damage,Minor Injury,171,2019-06-28 05:24:39,Single vehicle crash
+-14.465243633189994,33.63155810558533,Pesticide poisoning,Serious Injury,374,2019-06-18 11:46:45,Vehicle collision
+-15.330269180237774,32.673088960235816,Animal attack,Minor Injury,1288,2019-06-13 04:50:09,Multiple vehicle accident
+-16.286037460104275,33.04831382253595,Heavy equipment accident,Moderate Injury,1116,2019-06-19 01:12:06,Vehicle collision
+-12.086283954626394,32.28530739884984,Flood damage,Moderate Injury,446,2019-06-22 16:28:56,Vehicle collision
+-16.77392153285032,34.55523815238247,Chemical burn,Minor Injury,1093,2019-06-13 22:07:05,Traffic jam due to accident
+-16.34309306724719,33.01074500166116,Animal attack,Moderate Injury,237,2019-06-08 12:29:25,Road accident
+-10.161260049053286,35.1869683907832,Falling from tractor,Moderate Injury,486,2019-06-04 01:57:40,Multiple vehicle accident
+-10.65840393411341,34.01687229741173,Snake bite,Minor Injury,410,2019-06-11 13:40:54,Pedestrian hit
+-9.47483723212397,32.31747733446867,Machinery malfunction,Serious Injury,147,2019-06-05 03:34:09,Vehicle collision
+-9.741546127455454,34.8301372857573,Snake bite,Serious Injury,361,2019-06-27 02:02:54,Hit and run
+-10.751320139105886,32.27017904620427,Chemical burn,Moderate Injury,181,2019-06-24 01:09:58,Multiple vehicle accident
+-11.830411532653782,32.673311117389574,Machinery malfunction,Moderate Injury,146,2019-06-07 00:14:58,Multiple vehicle accident
+-13.984929366472507,32.51478653989938,Drought impact,Minor Injury,1234,2019-06-05 10:54:32,Pedestrian hit
+-13.288843126734724,32.49598090004963,Snake bite,Serious Injury,164,2019-06-16 13:39:54,Traffic jam due to accident
+-9.707276673200143,32.90099587115742,Chemical burn,Minor Injury,174,2019-06-23 00:38:24,Road accident
+-12.598562052258124,34.81409348734978,Drought impact,Serious Injury,73,2019-06-04 23:06:42,Pedestrian hit
+-13.827387871161848,35.20322728196553,Falling from tractor,Minor Injury,739,2019-06-14 06:38:44,Vehicle collision
+-16.18528075315487,33.44513508093754,Heavy equipment accident,Serious Injury,159,2019-06-08 02:56:07,Multiple vehicle accident
+-16.49857973318574,31.765807183454974,Pesticide poisoning,Minor Injury,223,2019-06-27 18:03:37,Pedestrian hit
+-11.438766428391347,32.24002113285215,Machinery malfunction,Moderate Injury,80,2019-06-14 13:02:00,Pedestrian hit
+-12.059278673855772,33.01063662412941,Heavy equipment accident,Minor Injury,1322,2019-06-20 21:30:58,Pedestrian hit
+-9.139878225527598,33.7492748835431,Machinery malfunction,Moderate Injury,1269,2019-06-01 06:33:33,Road accident
+-11.885715072311182,34.156662174692585,Falling from tractor,Minor Injury,976,2019-06-08 05:28:45,Vehicle collision
+-13.488552135671275,32.346120574033456,Machinery malfunction,Fatalities,85,2019-06-19 03:26:38,Traffic jam due to accident
+-12.406402005356064,31.76711833149684,Heavy equipment accident,Serious Injury,327,2019-06-15 06:31:27,Road accident
+-9.288769915284934,33.64202435633516,Drought impact,Moderate Injury,697,2019-06-13 21:35:26,Hit and run
+-15.888220318980274,35.40633842844707,Pesticide poisoning,Fatalities,264,2019-06-15 15:54:10,Multiple vehicle accident
+-12.335199240867071,34.2677802549415,Heavy equipment accident,Fatalities,29,2019-06-21 22:15:35,Hit and run
+-14.227667642840277,35.302670323590576,Falling from tractor,Fatalities,67,2019-06-24 14:09:31,Multiple vehicle accident
+-14.713001444302055,32.340050664793395,Snake bite,Moderate Injury,940,2019-06-27 02:25:53,Traffic jam due to accident
+-11.309032505750768,32.20549582566075,Crop fire,Minor Injury,622,2019-06-02 04:41:42,Traffic jam due to accident
+-12.160219992083917,35.00814523755877,Machinery malfunction,Fatalities,217,2019-06-26 20:39:32,Road accident
+-13.568560978181747,32.572625599062384,Snake bite,Moderate Injury,1339,2019-06-09 07:36:33,Single vehicle crash
+-9.736810435577695,34.16410990421881,Chemical burn,Serious Injury,31,2019-06-10 17:35:01,Vehicle collision
+-10.837888325604554,34.4370640776762,Falling from tractor,Minor Injury,441,2019-06-09 03:07:08,Single vehicle crash
+-11.893955226481657,32.91463800628758,Falling from tractor,Serious Injury,173,2019-06-01 01:28:16,Single vehicle crash
+-10.59703987451263,34.78423061504068,Crop fire,Fatalities,20,2019-06-08 08:46:13,Pedestrian hit
+-14.074595146232427,31.834512662269656,Machinery malfunction,Moderate Injury,1169,2019-06-05 22:18:17,Roadside emergency
+-14.88851942512478,35.04910088626132,Pesticide poisoning,Minor Injury,1475,2019-06-15 04:06:17,Multiple vehicle accident
+-10.754652941625592,34.86339942028307,Pesticide poisoning,Moderate Injury,1328,2019-06-02 23:21:26,Road accident
+-11.748444558791348,35.61235134616655,Pesticide poisoning,Serious Injury,17,2019-06-25 18:16:04,Pedestrian hit
+-12.504720546381517,32.66195032973837,Heavy equipment accident,Serious Injury,348,2019-06-20 14:30:21,Single vehicle crash
+-9.875842431292575,33.955802322979594,Falling from tractor,Fatalities,275,2019-06-13 20:25:30,Pedestrian hit
+-9.513935577351493,31.884301963801004,Chemical burn,Moderate Injury,1276,2019-06-21 19:12:29,Pedestrian hit
+-9.852527876922704,32.795789709628636,Animal attack,Moderate Injury,1156,2019-06-09 05:23:34,Road accident
+-13.431450076432277,34.95514364589812,Snake bite,Serious Injury,281,2019-06-06 22:14:46,Hit and run
+-9.753252233309157,35.59442711263835,Animal attack,Serious Injury,130,2019-06-14 03:41:47,Single vehicle crash
+-13.581975978091222,31.855004747761225,Heavy equipment accident,Minor Injury,339,2019-06-15 17:59:33,Pedestrian hit
+-14.383005685662837,32.69511762415695,Crop fire,Serious Injury,116,2019-06-29 17:25:52,Road accident
+-15.82071594813169,31.860204366809267,Pesticide poisoning,Fatalities,281,2019-06-19 18:34:13,Hit and run
+-10.347946945977853,34.04067283645525,Animal attack,Fatalities,207,2019-06-21 02:46:42,Roadside emergency
+-12.106298536282448,32.9497914366787,Heavy equipment accident,Moderate Injury,288,2019-06-18 10:56:28,Traffic jam due to accident
+-13.376348198317952,31.9874199313144,Drought impact,Moderate Injury,235,2019-06-03 15:33:55,Roadside emergency
+-10.458759880644191,35.319444314261595,Falling from tractor,Moderate Injury,989,2019-06-24 01:02:41,Traffic jam due to accident
+-11.120918723390366,32.361565947310936,Pesticide poisoning,Moderate Injury,832,2019-06-09 02:19:15,Pedestrian hit
+-10.790252597136522,32.70442724536637,Animal attack,Fatalities,156,2019-06-04 07:26:32,Traffic jam due to accident
+-10.34472740250596,35.19870051351068,Crop fire,Minor Injury,97,2019-06-10 19:07:21,Roadside emergency
+-8.935633486181231,35.189956422503194,Drought impact,Serious Injury,105,2019-06-18 23:27:38,Multiple vehicle accident
+-13.190376326172782,33.13102756978665,Drought impact,Minor Injury,1332,2019-06-11 18:59:36,Roadside emergency
+-10.912640503219436,34.86688256909612,Animal attack,Serious Injury,232,2019-06-21 18:54:47,Roadside emergency
+-10.656782150001275,34.526500150927696,Flood damage,Minor Injury,1488,2019-06-06 21:50:00,Vehicle collision
+-13.709935794553587,33.69931878916704,Crop fire,Moderate Injury,798,2019-06-21 00:40:50,Roadside emergency
+-13.978401761391009,34.450378857102436,Pesticide poisoning,Fatalities,256,2019-06-15 15:16:59,Single vehicle crash
+-15.335446832907857,32.769063901240735,Falling from tractor,Minor Injury,1381,2019-06-28 08:57:17,Roadside emergency
+-11.174682055605674,35.64833817411589,Chemical burn,Fatalities,282,2019-06-20 07:38:54,Vehicle collision
+-15.733631040010366,32.18203147177167,Flood damage,Serious Injury,73,2019-06-01 22:41:10,Single vehicle crash
+-15.013128033786499,31.77045141999024,Drought impact,Minor Injury,98,2019-06-03 02:11:16,Multiple vehicle accident
+-14.879381228788382,33.86956593543966,Chemical burn,Moderate Injury,977,2019-06-29 07:03:08,Vehicle collision
+-11.031676956444688,32.87828847632802,Animal attack,Serious Injury,219,2019-06-15 09:43:53,Pedestrian hit
+-12.213861022911452,33.556824682361004,Flood damage,Serious Injury,398,2019-06-02 08:57:48,Hit and run
+-10.58197507743835,33.27296594777025,Snake bite,Fatalities,297,2019-06-05 00:54:49,Hit and run
+-10.508729304343767,33.65169217651484,Drought impact,Minor Injury,1463,2019-06-02 14:24:55,Vehicle collision
+-9.060171460762156,32.841646121432504,Machinery malfunction,Minor Injury,672,2019-06-25 15:16:11,Multiple vehicle accident
+-14.546189322402569,35.469020001764655,Snake bite,Fatalities,107,2019-06-23 07:12:34,Roadside emergency
+-8.99018446357509,33.134301423020744,Flood damage,Minor Injury,920,2019-06-13 16:53:55,Pedestrian hit
+-13.39220371796123,35.44029283635187,Chemical burn,Minor Injury,176,2019-06-03 05:38:02,Pedestrian hit
+-15.950245525744196,35.20343077589696,Falling from tractor,Serious Injury,20,2019-06-12 11:56:33,Traffic jam due to accident
+-14.809667735261474,33.894148055657006,Drought impact,Fatalities,87,2019-06-27 07:18:30,Hit and run
+-13.365669754528877,32.345627594518874,Animal attack,Fatalities,131,2019-06-12 21:50:08,Multiple vehicle accident
+-15.429613258388294,33.237436728392495,Drought impact,Minor Injury,1179,2019-06-02 18:20:33,Traffic jam due to accident
+-9.624615345099208,34.42772516582731,Pesticide poisoning,Minor Injury,623,2019-06-09 09:25:16,Traffic jam due to accident
+-12.994244385898288,32.20032221680375,Crop fire,Serious Injury,383,2019-06-04 15:07:44,Hit and run
+-15.487376936357062,32.21010629583929,Flood damage,Minor Injury,1107,2019-06-13 19:29:52,Pedestrian hit
+-9.938693272754493,35.55564980549063,Falling from tractor,Serious Injury,197,2019-06-11 11:48:29,Vehicle collision
+-13.647382491417087,31.886277554866208,Flood damage,Serious Injury,203,2019-06-11 18:09:15,Vehicle collision
+-13.500056346880587,32.730562885836434,Drought impact,Moderate Injury,118,2019-06-16 18:31:39,Vehicle collision
+-16.645383365718946,32.72044733329993,Chemical burn,Fatalities,293,2019-06-08 04:51:44,Traffic jam due to accident
+-12.875031813702028,32.601992144834604,Flood damage,Fatalities,220,2019-06-09 09:48:37,Vehicle collision
+-16.33080023222406,33.20566440678875,Heavy equipment accident,Serious Injury,155,2019-06-08 07:23:55,Roadside emergency
+-12.24674305794308,34.41676444236827,Snake bite,Moderate Injury,1370,2019-06-10 15:08:04,Vehicle collision
+-15.646765966514785,33.9840126466041,Heavy equipment accident,Fatalities,289,2019-06-04 07:34:11,Traffic jam due to accident
+-11.840808549198929,35.44821252388799,Animal attack,Moderate Injury,1100,2019-06-01 22:12:04,Road accident
+-15.997933913661747,34.21291272475501,Crop fire,Moderate Injury,1431,2019-06-04 12:12:08,Hit and run
+-9.938698170512387,33.58894723888781,Animal attack,Minor Injury,456,2019-06-26 19:37:31,Roadside emergency
+-16.279809263092186,33.935580596133086,Crop fire,Serious Injury,195,2019-06-12 04:34:00,Vehicle collision
+-9.609103100660032,35.399531902358525,Pesticide poisoning,Minor Injury,1212,2019-06-07 17:11:00,Hit and run
+-11.18359770622854,34.799030359235715,Pesticide poisoning,Serious Injury,170,2019-06-01 01:56:44,Single vehicle crash
+-11.282674904005933,33.72260915816545,Heavy equipment accident,Moderate Injury,343,2019-06-13 10:32:59,Multiple vehicle accident
+-16.41442428036579,33.63091902595052,Pesticide poisoning,Minor Injury,378,2019-06-15 17:00:17,Multiple vehicle accident
+-14.60011976841251,35.37536542168818,Snake bite,Fatalities,21,2019-06-23 04:11:50,Vehicle collision
+-12.81437178182078,33.17504584424442,Machinery malfunction,Fatalities,107,2019-06-15 05:17:00,Traffic jam due to accident
+-13.107499407059397,32.687833355974696,Drought impact,Fatalities,125,2019-06-10 01:46:39,Roadside emergency
+-12.954030191571146,35.004680284298296,Heavy equipment accident,Serious Injury,230,2019-06-07 02:35:07,Single vehicle crash
+-15.166155013389806,32.18493578269307,Crop fire,Serious Injury,118,2019-06-23 18:20:21,Hit and run
+-13.228986768587177,34.81377002403324,Falling from tractor,Serious Injury,388,2019-06-16 01:43:52,Pedestrian hit
+-13.075175863950022,31.770116777074225,Heavy equipment accident,Fatalities,142,2019-06-26 05:47:49,Roadside emergency
+-8.914069199721723,35.31335747244422,Pesticide poisoning,Moderate Injury,663,2019-06-03 18:12:37,Traffic jam due to accident
+-12.910091979385445,34.27330143297885,Animal attack,Serious Injury,62,2019-06-13 01:42:34,Multiple vehicle accident
+-11.123023494532326,32.758523984821,Pesticide poisoning,Fatalities,92,2019-06-09 17:05:53,Roadside emergency
+-12.726863433586143,34.585314875818185,Chemical burn,Fatalities,40,2019-06-23 22:41:50,Hit and run
+-14.508257506296161,32.56616772405324,Drought impact,Serious Injury,243,2019-06-29 16:48:12,Traffic jam due to accident
+-9.89996517746688,34.1390045370314,Crop fire,Minor Injury,1147,2019-06-24 21:57:16,Vehicle collision
+-14.177066608446278,31.956106277282686,Animal attack,Fatalities,292,2019-06-19 16:01:30,Multiple vehicle accident
+-15.29620553416572,32.17089386575771,Chemical burn,Minor Injury,1001,2019-06-03 10:52:14,Road accident
+-10.47198167447085,31.94623142123488,Snake bite,Serious Injury,139,2019-06-07 21:21:26,Vehicle collision
+-15.492862945167424,32.69247537238041,Flood damage,Serious Injury,242,2019-06-11 06:41:09,Road accident
+-10.94717152969968,34.802643084978186,Crop fire,Minor Injury,63,2019-06-08 11:03:11,Single vehicle crash
+-16.062962331199184,32.67403207545735,Falling from tractor,Moderate Injury,1239,2019-06-01 13:48:35,Hit and run
+-16.186131869643283,34.68057097988539,Drought impact,Fatalities,91,2019-06-27 14:30:04,Road accident
+-16.1407998403554,33.14107056790157,Heavy equipment accident,Moderate Injury,557,2019-06-26 18:53:11,Roadside emergency
+-11.638923322951614,32.28636079001515,Pesticide poisoning,Minor Injury,296,2019-06-29 06:45:34,Hit and run
+-9.162451990964698,33.78303952318319,Chemical burn,Moderate Injury,976,2019-06-14 07:36:49,Traffic jam due to accident
+-10.358082164820777,33.4203980596873,Snake bite,Minor Injury,117,2019-06-26 03:18:06,Multiple vehicle accident
+-15.499544336952104,32.021956977120986,Snake bite,Serious Injury,352,2019-06-05 02:19:43,Vehicle collision
+-13.683125475301772,35.59047824618939,Chemical burn,Fatalities,186,2019-06-10 12:03:57,Vehicle collision
+-12.33995782399044,31.755518285932627,Pesticide poisoning,Serious Injury,55,2019-06-20 14:18:48,Multiple vehicle accident
+-13.439393385805548,34.56708252095362,Crop fire,Moderate Injury,198,2019-06-16 19:36:50,Vehicle collision
+-11.479325885256031,32.725339399966366,Crop fire,Minor Injury,845,2019-06-01 17:03:28,Vehicle collision
+-11.838723433162972,34.97430469845939,Heavy equipment accident,Serious Injury,183,2019-06-14 21:23:02,Roadside emergency
+-14.593194131549422,35.01456440126655,Snake bite,Moderate Injury,1143,2019-06-14 21:49:16,Vehicle collision
+-10.949874905872289,35.59895602748212,Flood damage,Serious Injury,39,2019-06-12 14:41:37,Hit and run
+-9.346711273779015,34.33763356188503,Drought impact,Serious Injury,400,2019-06-26 23:17:56,Road accident
+-10.339369117491032,33.994868264789616,Heavy equipment accident,Serious Injury,288,2019-06-02 08:22:29,Hit and run
+-10.536296742297951,34.57832865633236,Animal attack,Minor Injury,479,2019-06-15 02:06:47,Road accident
+-12.41424670232139,32.1984909440617,Flood damage,Moderate Injury,1361,2019-06-03 06:00:14,Roadside emergency
+-9.073664247314792,34.639623845811954,Falling from tractor,Minor Injury,857,2019-06-04 13:07:30,Multiple vehicle accident
+-12.72831271207245,32.81983549552188,Drought impact,Fatalities,35,2019-06-03 23:35:29,Vehicle collision
+-13.113028477564395,35.332225562380145,Animal attack,Moderate Injury,884,2019-06-20 17:17:12,Single vehicle crash
+-15.386520812903804,34.06101249981777,Snake bite,Fatalities,17,2019-06-08 08:19:49,Hit and run
+-10.704063145115008,35.54004815363647,Heavy equipment accident,Fatalities,266,2019-06-08 16:27:48,Vehicle collision
+-10.706274867258218,35.41061383024671,Machinery malfunction,Minor Injury,1203,2019-06-02 01:43:59,Multiple vehicle accident
+-15.528386167973457,34.6466924561932,Machinery malfunction,Minor Injury,958,2019-06-02 01:25:53,Single vehicle crash
+-14.91219291279296,32.3116237864803,Pesticide poisoning,Moderate Injury,424,2019-06-05 00:20:54,Pedestrian hit
+-13.621366134205081,33.07678171615731,Machinery malfunction,Fatalities,110,2019-06-10 03:38:36,Pedestrian hit
+-12.331443826610073,32.720170874524904,Flood damage,Minor Injury,92,2019-06-15 15:04:20,Hit and run
+-15.13447493491626,35.08082627426735,Heavy equipment accident,Minor Injury,41,2019-06-26 00:22:08,Roadside emergency
+-10.226750983939166,33.00896330407677,Falling from tractor,Fatalities,21,2019-06-13 23:14:25,Traffic jam due to accident
+-12.372988973878524,35.185169390528294,Chemical burn,Fatalities,153,2019-06-03 01:15:47,Vehicle collision
+-10.029403188216524,34.98815641129963,Heavy equipment accident,Fatalities,139,2019-06-14 07:37:27,Pedestrian hit
+-9.051971004022334,32.55320283160827,Heavy equipment accident,Fatalities,192,2019-06-03 23:04:44,Single vehicle crash
+-11.040121875939718,32.52674959810627,Snake bite,Moderate Injury,1021,2019-06-14 13:28:39,Multiple vehicle accident
+-14.67300728998907,32.45792827397233,Falling from tractor,Minor Injury,403,2019-06-29 00:58:59,Roadside emergency
+-15.736462307209463,31.780260221294373,Flood damage,Serious Injury,215,2019-06-15 16:35:31,Road accident
+-12.98054562708973,31.80937153050521,Chemical burn,Fatalities,284,2019-06-29 04:58:46,Vehicle collision
+-9.505585834897742,32.63100766881716,Animal attack,Fatalities,87,2019-06-21 23:41:11,Roadside emergency
+-11.169099837792785,34.18432302595179,Machinery malfunction,Moderate Injury,613,2019-06-11 08:19:11,Multiple vehicle accident
+-13.673361702847238,32.1292717689806,Chemical burn,Minor Injury,334,2019-06-15 02:47:56,Hit and run
+-11.52727253603706,32.59787987159752,Animal attack,Moderate Injury,1194,2019-06-02 16:59:05,Roadside emergency
+-12.019510035950525,34.112393208990476,Chemical burn,Moderate Injury,320,2019-06-12 14:37:31,Pedestrian hit
+-14.243821591629526,32.59867334241064,Falling from tractor,Fatalities,221,2019-06-07 00:19:19,Roadside emergency
+-11.99457055298171,35.21243379712295,Falling from tractor,Moderate Injury,463,2019-06-24 08:48:20,Multiple vehicle accident
+-16.372658254383985,35.098662122748095,Heavy equipment accident,Serious Injury,161,2019-06-21 23:39:17,Multiple vehicle accident
+-11.737252793521229,32.82662004175349,Crop fire,Serious Injury,244,2019-06-07 18:14:54,Traffic jam due to accident
+-16.50329392016805,34.91018883706217,Snake bite,Minor Injury,1384,2019-06-24 06:16:14,Pedestrian hit
+-16.76598166614843,33.67419806256755,Pesticide poisoning,Serious Injury,344,2019-06-18 00:23:47,Vehicle collision
+-9.817629553527457,35.637690859732444,Chemical burn,Minor Injury,1500,2019-06-08 15:17:32,Hit and run
+-12.509732146763294,35.448475671684974,Drought impact,Minor Injury,920,2019-06-19 13:55:24,Multiple vehicle accident
+-12.922083111792064,33.744488214934854,Machinery malfunction,Fatalities,233,2019-06-02 01:45:57,Road accident
+-15.174010257236239,32.58679038417616,Crop fire,Moderate Injury,1203,2019-06-17 08:06:22,Road accident
+-15.724102223943598,34.33162747084317,Drought impact,Minor Injury,507,2019-06-07 19:25:23,Vehicle collision
+-12.649492475045813,32.429594872469664,Crop fire,Fatalities,158,2019-06-07 01:23:40,Pedestrian hit
+-15.82876149454263,35.19022897714547,Pesticide poisoning,Serious Injury,23,2019-06-23 11:11:19,Traffic jam due to accident
+-10.741325872831105,33.52558347842756,Pesticide poisoning,Minor Injury,393,2019-06-07 09:22:34,Hit and run
+-9.668308837658543,35.07394640365675,Drought impact,Moderate Injury,1480,2019-06-03 04:02:27,Road accident
+-15.891104876363586,31.79513031854463,Crop fire,Minor Injury,947,2019-06-26 02:25:35,Traffic jam due to accident
+-13.640317128895049,33.49543318413302,Crop fire,Minor Injury,172,2019-06-28 16:28:11,Single vehicle crash
+-15.119363001742487,33.382287665738964,Flood damage,Serious Injury,310,2019-06-12 08:29:16,Single vehicle crash
+-9.866181181097769,33.65180568956222,Heavy equipment accident,Serious Injury,192,2019-06-04 19:21:03,Multiple vehicle accident
+-9.399124057933673,32.08224719800441,Machinery malfunction,Serious Injury,367,2019-06-16 08:26:24,Vehicle collision
+-15.829127654926424,33.761837923027834,Snake bite,Fatalities,211,2019-06-22 21:49:03,Multiple vehicle accident
+-13.922049889545848,31.742356537080024,Chemical burn,Minor Injury,878,2019-06-24 14:04:57,Road accident
+-14.454427428959441,32.84552562579009,Animal attack,Serious Injury,364,2019-06-06 01:41:28,Multiple vehicle accident
+-15.354339516898474,33.91992707408242,Animal attack,Moderate Injury,1236,2019-06-21 15:02:46,Pedestrian hit
+-15.12859734908103,33.65205898645685,Heavy equipment accident,Minor Injury,569,2019-06-12 05:06:52,Hit and run
+-12.714442677415331,34.97440198555922,Snake bite,Moderate Injury,650,2019-06-10 07:43:15,Single vehicle crash
+-13.314848474830765,33.138263459106824,Flood damage,Serious Injury,136,2019-06-24 10:21:43,Roadside emergency
+-16.401221185331956,32.96233271170729,Falling from tractor,Fatalities,113,2019-06-20 19:55:50,Hit and run
+-12.146785158539473,33.5012924504002,Snake bite,Fatalities,212,2019-06-06 06:33:14,Multiple vehicle accident
+-12.177399779965189,34.922264151388646,Falling from tractor,Fatalities,174,2019-06-04 23:44:19,Hit and run
+-8.908122998245405,32.86410908700063,Flood damage,Moderate Injury,639,2019-06-17 22:02:01,Pedestrian hit
+-15.322193279007111,34.76001264706072,Heavy equipment accident,Fatalities,232,2019-06-02 20:22:34,Multiple vehicle accident
+-15.585911144194311,31.963337127253567,Snake bite,Fatalities,65,2019-06-16 01:10:26,Vehicle collision
+-10.849400530248992,34.62144694152872,Animal attack,Serious Injury,244,2019-06-03 04:05:19,Road accident
+-15.910292386873081,32.01927639164437,Drought impact,Fatalities,222,2019-06-27 20:15:23,Pedestrian hit
+-9.416413556390225,34.72866683174294,Chemical burn,Minor Injury,501,2019-06-08 23:46:35,Multiple vehicle accident
+-13.678254286568528,35.26125120372396,Animal attack,Serious Injury,81,2019-06-26 03:57:39,Vehicle collision
+-9.486967592511832,33.83801657082862,Crop fire,Serious Injury,243,2019-06-11 18:35:30,Roadside emergency
+-16.09396171326496,35.038219213433,Drought impact,Serious Injury,296,2019-06-13 19:45:46,Single vehicle crash
+-16.280423000415848,34.61893827747602,Heavy equipment accident,Moderate Injury,440,2019-06-12 13:14:16,Traffic jam due to accident
+-14.110381538896691,34.31502443695217,Machinery malfunction,Fatalities,92,2019-06-08 14:26:00,Road accident
+-13.93449610909088,32.86452019472305,Flood damage,Serious Injury,314,2019-06-02 02:16:27,Multiple vehicle accident
+-9.231105254802863,34.0732020617028,Drought impact,Minor Injury,1317,2019-06-20 13:21:28,Roadside emergency
+-15.356401669120137,35.50520442453718,Crop fire,Fatalities,105,2019-06-07 13:18:13,Single vehicle crash
+-14.37909176916777,32.60263162242347,Chemical burn,Minor Injury,50,2019-06-21 13:01:08,Pedestrian hit
+-11.294238303161023,34.05944262614904,Drought impact,Fatalities,47,2019-06-13 01:12:27,Vehicle collision
+-10.62068043344833,31.779357058990147,Falling from tractor,Moderate Injury,261,2019-06-25 07:16:10,Road accident
+-16.483951395241277,34.2021158217445,Chemical burn,Fatalities,51,2019-06-25 04:38:51,Pedestrian hit
+-14.31684013462644,32.374812459474725,Crop fire,Fatalities,186,2019-06-17 20:31:08,Multiple vehicle accident
+-16.067979110917936,34.095146665428786,Machinery malfunction,Fatalities,241,2019-06-20 01:01:31,Vehicle collision
+-12.338501394746181,31.73599029094165,Drought impact,Serious Injury,91,2019-06-16 05:39:17,Vehicle collision
+-12.446467322360473,35.44506716648553,Falling from tractor,Fatalities,74,2019-06-18 08:48:53,Hit and run
+-12.279111240549117,34.62567528209774,Crop fire,Fatalities,175,2019-06-01 22:15:41,Traffic jam due to accident
+-11.841098174797981,34.155724655606406,Pesticide poisoning,Minor Injury,1156,2019-06-18 05:36:52,Roadside emergency
+-10.217016084350576,33.30809002090821,Pesticide poisoning,Serious Injury,260,2019-06-26 19:00:18,Road accident
+-9.568506975114556,34.591489979039196,Drought impact,Moderate Injury,661,2019-06-12 19:52:53,Vehicle collision
+-13.983782852330386,35.459726678369904,Machinery malfunction,Serious Injury,313,2019-06-26 06:46:25,Traffic jam due to accident
+-10.013704992277123,33.724535836108885,Animal attack,Moderate Injury,643,2019-06-01 11:23:25,Multiple vehicle accident
+-10.188897013865226,32.74102791166339,Falling from tractor,Moderate Injury,1210,2019-06-11 07:33:01,Hit and run
+-12.855962477169179,33.74075977231903,Chemical burn,Fatalities,167,2019-06-08 12:50:47,Traffic jam due to accident
+-16.59927978460477,33.48643661662623,Pesticide poisoning,Minor Injury,92,2019-06-18 01:56:35,Vehicle collision
+-10.45344604439227,34.08419352707725,Machinery malfunction,Minor Injury,444,2019-06-19 23:48:37,Roadside emergency
+-14.67544219426672,32.192395626363506,Falling from tractor,Moderate Injury,951,2019-06-05 03:44:09,Hit and run
+-11.640128488135169,33.416744820587624,Drought impact,Fatalities,11,2019-06-27 06:42:03,Vehicle collision
+-12.907935417333478,32.990104904850895,Falling from tractor,Minor Injury,1250,2019-06-26 01:34:02,Pedestrian hit
+-11.134486148519269,33.822995172175546,Pesticide poisoning,Fatalities,69,2019-06-12 06:19:18,Hit and run
+-16.667713028392726,35.26169723038979,Pesticide poisoning,Fatalities,268,2019-06-15 02:03:00,Hit and run
+-11.691125193914178,35.22687649563568,Chemical burn,Minor Injury,1132,2019-06-10 22:52:36,Multiple vehicle accident
+-16.308946652078344,35.59773361930411,Flood damage,Moderate Injury,1059,2019-06-10 01:44:30,Traffic jam due to accident
+-13.465934872716929,34.78546122822715,Heavy equipment accident,Minor Injury,1103,2019-06-23 03:03:04,Multiple vehicle accident
+-11.426942384933344,32.568290068123694,Chemical burn,Moderate Injury,960,2019-06-24 13:00:40,Vehicle collision
+-14.214575803561054,34.84855667378793,Falling from tractor,Serious Injury,303,2019-06-01 18:27:45,Vehicle collision
+-11.104158293440832,33.38454621957967,Falling from tractor,Minor Injury,321,2019-06-20 01:22:28,Pedestrian hit
+-9.909014781929148,34.603754711506156,Heavy equipment accident,Moderate Injury,1356,2019-06-26 04:10:42,Road accident
+-9.797639023174192,34.11389086443838,Drought impact,Serious Injury,151,2019-06-06 19:20:17,Single vehicle crash
+-10.773979847160806,33.95095781988934,Crop fire,Fatalities,178,2019-06-01 21:42:09,Pedestrian hit
+-9.125160132540621,33.62686476002385,Crop fire,Moderate Injury,1470,2019-06-12 21:22:27,Hit and run
+-15.412525893341932,33.22258088709785,Crop fire,Fatalities,205,2019-06-09 09:13:00,Pedestrian hit
+-9.809387847049141,33.41582648571702,Pesticide poisoning,Fatalities,211,2019-06-02 03:23:38,Traffic jam due to accident
+-10.559046580125685,33.80855796956807,Drought impact,Moderate Injury,293,2019-06-15 20:36:06,Traffic jam due to accident
+-13.049043288695792,34.688785250689925,Drought impact,Serious Injury,271,2019-06-15 22:12:48,Pedestrian hit
+-11.73514478440796,34.008229834800275,Pesticide poisoning,Fatalities,285,2019-06-07 03:41:54,Traffic jam due to accident
+-10.82255285766145,33.55936928138958,Flood damage,Serious Injury,224,2019-06-14 17:08:59,Vehicle collision
+-15.542373308953145,32.287769844505185,Drought impact,Minor Injury,954,2019-06-12 21:15:36,Traffic jam due to accident
+-15.801481047961824,31.863281769747637,Chemical burn,Moderate Injury,316,2019-06-14 13:02:52,Hit and run
+-14.776898473873946,33.643752116468576,Flood damage,Moderate Injury,84,2019-06-15 07:07:20,Multiple vehicle accident
+-12.89244024714866,31.920344452831188,Snake bite,Moderate Injury,680,2019-06-26 15:37:38,Road accident
+-12.932689057133464,32.452713426342676,Pesticide poisoning,Moderate Injury,1019,2019-06-17 02:48:43,Pedestrian hit
+-9.26952094893521,34.36341758923681,Animal attack,Serious Injury,210,2019-06-09 14:00:22,Hit and run
+-11.773597823525675,31.72428734679086,Flood damage,Moderate Injury,54,2019-06-01 13:59:17,Road accident
+-16.043605233813444,34.334693265176085,Crop fire,Fatalities,39,2019-06-02 00:40:29,Traffic jam due to accident
+-15.12030296105196,32.48651855497034,Pesticide poisoning,Moderate Injury,1207,2019-06-14 14:06:46,Roadside emergency
+-9.651690929400154,34.5731714774419,Machinery malfunction,Moderate Injury,830,2019-06-17 20:48:32,Pedestrian hit
+-11.024079461524561,32.078205622312176,Chemical burn,Serious Injury,197,2019-06-02 19:39:12,Hit and run
+-16.618350100547058,32.41211798122099,Crop fire,Fatalities,252,2019-06-24 08:05:04,Single vehicle crash
+-8.863393073846531,32.222368212138896,Heavy equipment accident,Moderate Injury,1033,2019-06-02 06:57:06,Multiple vehicle accident
+-9.643773326883618,35.082422310396524,Flood damage,Serious Injury,17,2019-06-14 04:30:15,Multiple vehicle accident
+-11.851777252993433,34.46613697490077,Snake bite,Serious Injury,58,2019-06-01 08:15:57,Multiple vehicle accident
+-12.618964931648708,33.2039677447747,Crop fire,Serious Injury,312,2019-06-25 22:14:08,Roadside emergency
+-10.071398058738868,35.130860261382324,Heavy equipment accident,Fatalities,210,2019-06-03 21:47:11,Single vehicle crash
+-13.601874785610937,31.74637466634736,Chemical burn,Serious Injury,238,2019-06-12 20:32:17,Multiple vehicle accident
+-12.597530428172595,33.704708891026094,Pesticide poisoning,Serious Injury,11,2019-06-05 19:45:46,Roadside emergency
+-11.827635808742702,34.8484492338655,Flood damage,Serious Injury,45,2019-06-02 23:02:49,Single vehicle crash
+-9.967143157388326,33.231020165801134,Crop fire,Fatalities,46,2019-06-14 06:41:46,Pedestrian hit
+-12.092040799366552,33.420559352047576,Heavy equipment accident,Fatalities,293,2019-06-06 21:32:12,Multiple vehicle accident
+-10.64441711761113,35.26834117804389,Falling from tractor,Minor Injury,60,2019-06-22 12:32:48,Hit and run
+-16.505453634644887,32.72927392911336,Heavy equipment accident,Serious Injury,275,2019-06-09 15:11:11,Single vehicle crash
+-9.096818317614405,31.96785457601228,Chemical burn,Serious Injury,86,2019-06-14 17:06:58,Hit and run
+-11.898084595321919,33.853200284356625,Chemical burn,Moderate Injury,1099,2019-06-18 21:23:26,Multiple vehicle accident
+-12.92875586832588,34.17401538409755,Flood damage,Fatalities,10,2019-06-12 12:15:20,Multiple vehicle accident
+-15.356214858982089,34.70968099945129,Drought impact,Minor Injury,1090,2019-06-01 01:29:30,Pedestrian hit
+-12.646223340222416,31.806829562387716,Snake bite,Serious Injury,375,2019-06-10 02:34:00,Multiple vehicle accident
+-10.426789670747688,34.8589822863609,Chemical burn,Serious Injury,346,2019-06-17 02:13:51,Multiple vehicle accident
+-12.724168108157333,31.908745698696023,Snake bite,Moderate Injury,662,2019-06-02 20:49:00,Hit and run
+-11.320723974847187,34.080063045896104,Snake bite,Moderate Injury,547,2019-06-17 14:11:45,Roadside emergency
+-14.75657206250442,35.266966305126644,Flood damage,Fatalities,102,2019-06-11 10:40:10,Traffic jam due to accident
+-10.676292510897536,32.06311702481299,Animal attack,Moderate Injury,1123,2019-06-23 20:42:45,Hit and run
+-16.243845110722262,33.28712156721881,Drought impact,Minor Injury,873,2019-06-04 05:16:57,Traffic jam due to accident
+-14.471026697150002,32.216968232258544,Pesticide poisoning,Moderate Injury,1221,2019-06-22 12:50:09,Road accident
+-9.318983236549741,34.07555741651216,Animal attack,Fatalities,48,2019-06-25 15:50:27,Hit and run
+-12.281879562470987,33.27326034738846,Machinery malfunction,Fatalities,83,2019-06-01 19:33:58,Multiple vehicle accident
+-15.215422705809297,34.033233010760085,Snake bite,Minor Injury,990,2019-06-14 19:52:51,Traffic jam due to accident
+-13.90796284015823,31.844745340761467,Drought impact,Fatalities,13,2019-06-17 15:56:09,Vehicle collision
+-9.297539699249992,33.84332995468154,Falling from tractor,Serious Injury,142,2019-06-08 15:43:32,Roadside emergency
+-12.496246814952968,32.95669911337212,Animal attack,Fatalities,229,2019-06-27 09:04:05,Single vehicle crash
+-13.731209666226206,34.26051086620073,Heavy equipment accident,Serious Injury,115,2019-06-25 07:48:50,Traffic jam due to accident
+-11.573691110138325,33.93222751548692,Flood damage,Minor Injury,1300,2019-06-08 13:38:51,Vehicle collision
+-13.221746384718921,33.897040803332835,Flood damage,Moderate Injury,913,2019-06-08 09:09:34,Roadside emergency
+-14.333220413350176,34.96191019401618,Snake bite,Serious Injury,392,2019-06-14 13:49:49,Vehicle collision
+-16.23224450373103,32.01856700581184,Falling from tractor,Serious Injury,385,2019-06-04 06:53:37,Road accident
+-10.124910538684368,32.15507321929258,Machinery malfunction,Minor Injury,1126,2019-06-19 21:41:19,Vehicle collision
+-9.428836475899487,32.36464417338806,Drought impact,Minor Injury,781,2019-06-29 09:12:44,Vehicle collision
+-9.268826117749988,35.42269032929613,Animal attack,Minor Injury,713,2019-06-05 18:47:27,Roadside emergency
+-13.980521295314425,32.37523809574587,Flood damage,Fatalities,282,2019-06-08 18:02:54,Multiple vehicle accident
+-11.42275911478826,32.50984621033477,Falling from tractor,Minor Injury,1454,2019-06-01 07:55:28,Hit and run
+-10.943966236281936,32.14889847838737,Pesticide poisoning,Moderate Injury,859,2019-06-21 15:08:39,Roadside emergency
+-13.418135851237373,34.27516945198953,Animal attack,Fatalities,160,2019-06-07 03:15:35,Traffic jam due to accident
+-13.189198017959118,33.617698283419344,Animal attack,Moderate Injury,112,2019-06-09 16:45:21,Single vehicle crash
+-16.68029814678178,32.15045196082487,Heavy equipment accident,Fatalities,72,2019-06-07 12:48:30,Traffic jam due to accident
+-9.520392600547797,35.12342320673616,Drought impact,Minor Injury,239,2019-06-14 12:45:56,Multiple vehicle accident
+-11.934343237114415,32.81347357524633,Snake bite,Serious Injury,260,2019-06-14 12:39:46,Traffic jam due to accident
+-14.496713929747212,33.0773169710623,Animal attack,Moderate Injury,1206,2019-06-26 20:42:32,Single vehicle crash
+-12.931546737808286,32.82721486640296,Falling from tractor,Minor Injury,1173,2019-06-19 09:29:11,Roadside emergency
+-15.380584866747022,32.10130287763441,Animal attack,Serious Injury,350,2019-06-26 23:21:48,Multiple vehicle accident
+-16.56976582120316,33.73459813385399,Pesticide poisoning,Moderate Injury,264,2019-06-25 13:52:02,Traffic jam due to accident
+-9.133605612212307,32.48273372929251,Snake bite,Fatalities,219,2019-06-28 03:10:41,Traffic jam due to accident
+-13.96961345599206,33.31561317093765,Flood damage,Moderate Injury,105,2019-06-02 01:45:31,Multiple vehicle accident
+-12.650120627979302,34.67207863199325,Chemical burn,Fatalities,122,2019-06-27 03:14:50,Road accident
+-13.120608364663,32.9707041030259,Pesticide poisoning,Serious Injury,30,2019-06-29 16:15:52,Vehicle collision
+-14.761618625342885,33.45162513212418,Falling from tractor,Moderate Injury,1370,2019-06-16 04:54:20,Vehicle collision
+-13.04160267635726,34.99928709802969,Falling from tractor,Minor Injury,493,2019-06-13 00:51:38,Roadside emergency
+-11.086773925828274,33.48058194483142,Heavy equipment accident,Fatalities,11,2019-06-08 07:32:51,Roadside emergency
+-13.24788186193066,34.995404161561346,Flood damage,Serious Injury,349,2019-06-03 20:50:00,Single vehicle crash
+-8.98403139747199,34.62550373725232,Machinery malfunction,Minor Injury,240,2019-06-25 07:39:40,Hit and run
+-16.494011265774418,33.117978294631534,Heavy equipment accident,Minor Injury,611,2019-06-15 16:03:40,Road accident
+-12.120801204716397,35.166811497775086,Falling from tractor,Serious Injury,257,2019-06-13 19:54:15,Road accident
+-9.475578627701514,32.13683607704492,Machinery malfunction,Fatalities,26,2019-06-25 05:27:47,Single vehicle crash
+-14.365199379166697,33.70855464133034,Falling from tractor,Minor Injury,181,2019-06-09 19:40:10,Single vehicle crash
+-9.023035173094039,33.70785145133662,Flood damage,Serious Injury,298,2019-06-23 12:37:27,Hit and run
+-10.638406992316508,33.45857238125177,Pesticide poisoning,Minor Injury,1089,2019-06-12 00:56:33,Pedestrian hit
+-8.927179364447763,33.964559332063814,Pesticide poisoning,Fatalities,265,2019-06-21 17:54:41,Roadside emergency
+-13.984044890687668,34.36677324276038,Animal attack,Serious Injury,151,2019-06-27 03:49:51,Traffic jam due to accident
+-12.852405644347787,34.52150156691411,Flood damage,Minor Injury,722,2019-06-28 09:51:33,Traffic jam due to accident
+-9.69371844541422,34.77794637567048,Machinery malfunction,Moderate Injury,862,2019-06-20 20:10:17,Roadside emergency
+-12.94131743454875,32.757681261011555,Chemical burn,Moderate Injury,1216,2019-06-12 17:00:30,Road accident
+-11.100837044264548,32.88387829629118,Heavy equipment accident,Minor Injury,937,2019-06-16 08:12:12,Roadside emergency
+-15.337511488516542,33.978017030119034,Machinery malfunction,Fatalities,14,2019-06-10 12:33:07,Road accident
+-9.164853574619091,32.61772886963653,Flood damage,Serious Injury,113,2019-06-18 04:32:05,Multiple vehicle accident
+-16.68314177937479,32.96538023534402,Pesticide poisoning,Serious Injury,29,2019-06-10 10:07:18,Roadside emergency
+-10.878315094969171,33.839102710931606,Crop fire,Serious Injury,190,2019-06-06 04:00:04,Road accident
+-15.268421218547173,33.813825952952264,Falling from tractor,Moderate Injury,964,2019-06-15 11:02:03,Pedestrian hit
+-12.125694846281167,35.655359028731255,Heavy equipment accident,Moderate Injury,1226,2019-06-09 06:40:41,Single vehicle crash
+-15.181337047735981,33.378175470503415,Pesticide poisoning,Serious Injury,211,2019-06-15 02:40:17,Road accident
+-13.82368388601207,35.63390594776253,Crop fire,Fatalities,182,2019-06-10 20:55:54,Pedestrian hit
+-13.686636556208311,34.42373436329284,Crop fire,Serious Injury,62,2019-06-04 07:48:35,Hit and run
+-14.785827313808246,35.64986910505869,Machinery malfunction,Minor Injury,851,2019-06-18 13:18:53,Roadside emergency
+-15.889205829733541,32.870301258883515,Machinery malfunction,Minor Injury,1192,2019-06-19 10:42:39,Vehicle collision
+-15.916860313436224,33.979912622553684,Heavy equipment accident,Serious Injury,281,2019-06-24 13:15:49,Pedestrian hit
+-12.437364592522934,33.85768962375178,Crop fire,Moderate Injury,1449,2019-06-26 23:33:40,Vehicle collision
+-13.297636453481205,35.33390463156277,Drought impact,Moderate Injury,408,2019-06-15 19:35:01,Roadside emergency
+-16.52237712706085,34.61392966678471,Flood damage,Fatalities,50,2019-06-24 23:06:09,Multiple vehicle accident
+-11.316244816354917,31.72683200203335,Animal attack,Moderate Injury,755,2019-06-21 20:55:30,Road accident
+-11.28401471183526,33.61202462765659,Animal attack,Fatalities,17,2019-06-05 02:45:50,Pedestrian hit
+-10.495269764109576,32.49794775568139,Drought impact,Serious Injury,316,2019-06-06 14:48:06,Vehicle collision
+-12.625376249699368,31.83624379415764,Machinery malfunction,Fatalities,259,2019-06-26 10:35:01,Single vehicle crash
+-11.624626843705709,33.07464745621047,Chemical burn,Minor Injury,120,2019-06-15 04:02:43,Multiple vehicle accident
+-12.835476274440435,33.99188326250786,Snake bite,Serious Injury,233,2019-06-08 11:25:59,Roadside emergency
+-13.482365405365286,32.2476473551675,Snake bite,Minor Injury,906,2019-06-20 09:31:01,Traffic jam due to accident
+-10.585648964945428,32.13385549579516,Flood damage,Moderate Injury,847,2019-06-16 09:48:46,Hit and run
+-14.090579999942744,33.49718968918182,Heavy equipment accident,Serious Injury,382,2019-06-11 03:51:29,Traffic jam due to accident
+-16.108062047743637,32.83021417532509,Animal attack,Fatalities,32,2019-06-24 02:29:12,Hit and run
+-14.286212439447569,33.139795468196304,Animal attack,Fatalities,211,2019-06-29 10:26:17,Road accident
+-10.754049778022043,33.47419673964571,Pesticide poisoning,Moderate Injury,275,2019-06-17 23:17:52,Traffic jam due to accident
+-8.96900826165181,33.87278574585874,Pesticide poisoning,Minor Injury,1330,2019-06-19 01:10:23,Pedestrian hit
+-8.829954551714584,33.80305395061508,Animal attack,Minor Injury,131,2019-06-23 20:54:51,Multiple vehicle accident
+-11.177007359203312,31.81140050890347,Snake bite,Serious Injury,177,2019-06-25 17:13:19,Traffic jam due to accident
+-9.615495593076464,31.918429471953942,Drought impact,Serious Injury,41,2019-06-21 23:25:16,Road accident
+-13.988934143297598,33.51889126842797,Falling from tractor,Serious Injury,238,2019-06-24 06:40:45,Road accident
+-11.143356633909683,35.02203735594401,Machinery malfunction,Fatalities,296,2019-06-14 23:24:51,Road accident
+-15.823777020395362,34.187321654329516,Heavy equipment accident,Moderate Injury,1449,2019-06-03 09:34:42,Hit and run
+-14.09124749587891,35.42841753676398,Falling from tractor,Minor Injury,602,2019-06-20 19:34:14,Single vehicle crash
+-11.945052908362708,32.62159270094374,Snake bite,Moderate Injury,1187,2019-06-17 22:34:01,Traffic jam due to accident
+-12.33275792220769,33.50254934758765,Crop fire,Serious Injury,79,2019-06-22 08:04:08,Hit and run
+-10.478168721160774,31.782188304365018,Animal attack,Moderate Injury,554,2019-06-28 03:58:54,Hit and run
+-11.031767943995394,32.22098868324772,Heavy equipment accident,Moderate Injury,929,2019-06-18 19:57:51,Vehicle collision
+-10.69017632156452,34.88125342376492,Machinery malfunction,Moderate Injury,255,2019-06-25 03:57:00,Road accident
+-13.905800374881775,32.27088870284903,Snake bite,Fatalities,127,2019-06-11 15:40:00,Vehicle collision
+-12.715961008427545,34.7025947703735,Animal attack,Serious Injury,128,2019-06-28 16:47:44,Roadside emergency
+-16.089072947436332,32.35189252165239,Machinery malfunction,Minor Injury,1225,2019-06-09 23:32:23,Pedestrian hit
+-14.253379998880296,32.66801518910131,Crop fire,Fatalities,107,2019-06-11 17:34:10,Pedestrian hit
+-15.967177270819347,35.013209811537415,Falling from tractor,Fatalities,299,2019-06-07 18:54:34,Pedestrian hit
+-10.672953112516057,32.726039409510605,Heavy equipment accident,Moderate Injury,1284,2019-06-23 13:32:03,Single vehicle crash
+-11.93993673829605,33.50695642633925,Chemical burn,Serious Injury,187,2019-06-09 12:20:13,Multiple vehicle accident
+-14.214104895685677,32.27349824072189,Machinery malfunction,Fatalities,246,2019-06-26 20:57:47,Single vehicle crash
+-14.848016281724515,34.72779114857382,Animal attack,Serious Injury,328,2019-06-08 03:07:35,Road accident
+-15.674035700266991,32.68655034316134,Drought impact,Serious Injury,247,2019-06-27 06:45:21,Road accident
+-9.79528679714355,31.947069790842814,Animal attack,Moderate Injury,438,2019-06-24 07:37:20,Single vehicle crash
+-13.825437192246294,34.57942289181057,Chemical burn,Minor Injury,1010,2019-06-09 09:45:08,Traffic jam due to accident
+-9.004968247866863,33.408943154477996,Snake bite,Serious Injury,289,2019-06-22 09:06:07,Road accident
+-15.923819206624039,34.49616745441426,Machinery malfunction,Moderate Injury,177,2019-06-27 02:26:49,Hit and run
+-11.397997584453734,33.2592599687861,Chemical burn,Moderate Injury,388,2019-06-17 09:32:41,Roadside emergency
+-9.283794856276252,33.999501082284596,Crop fire,Minor Injury,987,2019-06-23 05:35:39,Pedestrian hit
+-15.567891147022001,35.01540194679108,Chemical burn,Fatalities,11,2019-06-28 23:35:09,Vehicle collision
+-15.287015544710037,33.737926395968124,Heavy equipment accident,Fatalities,78,2019-06-21 04:19:14,Traffic jam due to accident
+-14.160828365627111,35.44878476340345,Heavy equipment accident,Serious Injury,238,2019-06-05 00:22:49,Hit and run
+-15.517134473061175,34.34015131426354,Heavy equipment accident,Serious Injury,268,2019-06-25 21:15:54,Hit and run
+-10.583347603439972,33.68093255871419,Machinery malfunction,Serious Injury,168,2019-06-27 01:37:08,Multiple vehicle accident
+-10.653835715119257,35.1087512696603,Falling from tractor,Moderate Injury,472,2019-06-01 16:24:15,Traffic jam due to accident
+-8.999566777127379,34.97052912157404,Chemical burn,Serious Injury,74,2019-06-17 15:32:17,Vehicle collision
+-10.479573583288545,34.23538547889153,Chemical burn,Minor Injury,671,2019-06-05 06:46:03,Multiple vehicle accident
+-10.643532006055668,31.91295381774767,Crop fire,Fatalities,300,2019-06-20 07:56:01,Multiple vehicle accident
+-10.132192706994058,32.78902828877827,Chemical burn,Fatalities,198,2019-06-28 19:28:28,Hit and run
+-12.308053466735903,32.350254269011,Chemical burn,Serious Injury,388,2019-06-04 04:39:56,Pedestrian hit
+-10.863272099228864,31.737836393927648,Chemical burn,Moderate Injury,120,2019-06-18 14:50:19,Multiple vehicle accident
+-11.720697666693994,34.92841928413249,Chemical burn,Serious Injury,215,2019-06-10 01:04:55,Multiple vehicle accident
+-10.665620082497746,32.93417964227971,Pesticide poisoning,Serious Injury,83,2019-06-01 07:03:42,Pedestrian hit
+-14.440384044399517,35.483161684826946,Falling from tractor,Minor Injury,776,2019-06-02 16:44:41,Road accident
+-9.95382243504027,32.17108234806783,Falling from tractor,Minor Injury,1150,2019-06-12 22:42:53,Single vehicle crash
+-9.900615754159531,32.385475189262564,Drought impact,Fatalities,126,2019-06-27 05:01:49,Single vehicle crash
+-13.998858524290371,32.79675456195254,Flood damage,Minor Injury,715,2019-06-18 21:43:13,Road accident
+-9.11869195287748,35.659910254968366,Flood damage,Serious Injury,206,2019-06-18 23:32:08,Roadside emergency
+-13.388087612580374,32.1762744777212,Falling from tractor,Serious Injury,270,2019-06-14 18:37:07,Vehicle collision
+-11.339555645806092,33.20523489469506,Animal attack,Minor Injury,1186,2019-06-13 13:11:16,Road accident
+-8.88291864040943,33.834348137831775,Pesticide poisoning,Fatalities,254,2019-06-03 05:40:16,Road accident
+-12.265945887444875,35.59993203000303,Drought impact,Minor Injury,619,2019-06-11 23:07:22,Pedestrian hit
+-9.576441993806174,35.20131213490541,Pesticide poisoning,Serious Injury,231,2019-06-16 12:43:04,Hit and run
+-13.67120428229218,32.650116328852285,Crop fire,Minor Injury,239,2019-06-05 10:05:57,Road accident
+-11.925200231664329,33.05039750943319,Animal attack,Moderate Injury,1498,2019-06-22 18:15:46,Traffic jam due to accident
+-11.512154533262152,31.757019706683295,Pesticide poisoning,Serious Injury,80,2019-06-18 08:15:48,Traffic jam due to accident
+-9.647533436278213,31.900391832251394,Heavy equipment accident,Fatalities,247,2019-06-09 13:26:52,Roadside emergency
+-10.18572367756973,34.52179098576825,Snake bite,Serious Injury,318,2019-06-08 20:27:16,Hit and run
+-14.207562043979696,34.418853619482896,Drought impact,Minor Injury,735,2019-06-29 11:26:46,Traffic jam due to accident
+-14.817961805535285,34.44037732912176,Falling from tractor,Minor Injury,922,2019-06-01 07:52:47,Pedestrian hit
+-14.570533594694105,33.173861716547805,Falling from tractor,Serious Injury,74,2019-06-21 23:31:27,Traffic jam due to accident
+-10.956393991504775,35.323750820479,Pesticide poisoning,Fatalities,160,2019-06-13 04:05:49,Multiple vehicle accident
+-15.790505110205713,34.74499049858669,Drought impact,Serious Injury,275,2019-06-08 20:42:54,Vehicle collision
+-13.059755662982552,33.34567820291433,Chemical burn,Minor Injury,504,2019-06-12 09:49:27,Pedestrian hit
+-10.166596439800653,35.23656337400063,Machinery malfunction,Fatalities,196,2019-06-20 03:43:17,Traffic jam due to accident
+-9.241090402859694,32.12506081431143,Falling from tractor,Moderate Injury,1200,2019-06-17 12:34:49,Vehicle collision
+-13.213489137145565,34.878498905035066,Animal attack,Serious Injury,95,2019-06-11 20:54:34,Pedestrian hit
+-13.267508711399413,35.46685410195396,Heavy equipment accident,Serious Injury,262,2019-06-19 13:43:23,Single vehicle crash
+-10.611284881898221,34.05362966430142,Crop fire,Minor Injury,419,2019-06-23 08:46:45,Traffic jam due to accident
+-15.102503117100749,34.02912714627642,Animal attack,Fatalities,135,2019-06-25 18:37:18,Pedestrian hit
+-9.367401671976138,33.981913259719356,Animal attack,Fatalities,162,2019-06-28 05:28:34,Single vehicle crash
+-10.963896171552491,32.95141489337003,Machinery malfunction,Minor Injury,744,2019-06-24 05:31:13,Single vehicle crash
+-13.455313959252223,34.570126279457796,Pesticide poisoning,Serious Injury,105,2019-06-01 05:03:44,Hit and run
+-9.045292797298384,32.69570132003771,Heavy equipment accident,Moderate Injury,763,2019-06-25 01:42:23,Traffic jam due to accident
+-12.437722641857757,32.93774439755435,Snake bite,Fatalities,226,2019-06-18 23:55:21,Road accident
+-9.939308934530024,34.685868304666315,Heavy equipment accident,Minor Injury,551,2019-06-28 12:10:08,Traffic jam due to accident
+-10.785123923053453,33.912524651068914,Drought impact,Serious Injury,33,2019-06-14 17:09:05,Multiple vehicle accident
+-12.600286566765977,35.48714056089588,Heavy equipment accident,Fatalities,287,2019-06-04 00:30:56,Multiple vehicle accident
+-10.395043324568496,35.03033036190516,Flood damage,Minor Injury,321,2019-06-24 14:26:57,Road accident
+-15.771666477773714,35.616817663861944,Flood damage,Fatalities,24,2019-06-24 12:14:42,Multiple vehicle accident
+-10.359819028696709,31.919409101018545,Drought impact,Minor Injury,1215,2019-06-21 04:00:32,Hit and run
+-12.336930110233709,34.16108238294652,Pesticide poisoning,Serious Injury,175,2019-06-07 13:54:10,Roadside emergency
+-14.246153643257353,32.07455828584823,Animal attack,Serious Injury,356,2019-06-05 21:17:28,Multiple vehicle accident
+-11.26706437513916,32.71520211187576,Falling from tractor,Fatalities,77,2019-06-05 11:01:41,Single vehicle crash
+-12.45824606951336,32.02316801180164,Machinery malfunction,Minor Injury,1193,2019-06-28 11:24:18,Road accident
+-16.074704716692917,33.378093701772826,Drought impact,Minor Injury,566,2019-06-16 11:00:00,Single vehicle crash
+-8.877007592556351,32.28323033202078,Heavy equipment accident,Fatalities,81,2019-06-16 07:44:26,Vehicle collision
+-13.720003494861558,32.80577654948073,Chemical burn,Moderate Injury,829,2019-06-05 00:15:05,Traffic jam due to accident
+-9.16610738930116,32.789519225415766,Chemical burn,Moderate Injury,1073,2019-06-04 20:15:54,Multiple vehicle accident
+-9.864047123316409,33.37558695996235,Falling from tractor,Serious Injury,115,2019-06-26 21:02:30,Roadside emergency
+-11.19556858501861,34.489266911654646,Machinery malfunction,Fatalities,136,2019-06-17 15:50:37,Traffic jam due to accident
+-12.692517046205364,34.06778366242264,Flood damage,Minor Injury,1129,2019-06-24 13:51:41,Pedestrian hit
+-16.154433273888948,31.80109688387595,Machinery malfunction,Fatalities,289,2019-06-23 00:31:32,Single vehicle crash
+-10.38816592766143,33.192458269868524,Crop fire,Moderate Injury,1358,2019-06-09 20:37:18,Multiple vehicle accident
+-16.548442038425122,34.378906381286434,Heavy equipment accident,Serious Injury,255,2019-06-27 10:48:36,Single vehicle crash
+-10.756982329613692,34.12035938796933,Pesticide poisoning,Moderate Injury,620,2019-06-10 01:31:29,Hit and run
+-12.830863518271052,32.4098274608914,Falling from tractor,Serious Injury,317,2019-06-11 04:10:11,Hit and run
+-9.220065972621732,33.25851588123298,Machinery malfunction,Minor Injury,906,2019-06-24 11:01:40,Roadside emergency
+-14.794476518848793,35.04339932078504,Pesticide poisoning,Serious Injury,341,2019-06-23 00:41:54,Traffic jam due to accident
+-11.849242805803865,34.6929646176297,Animal attack,Moderate Injury,1419,2019-06-07 12:52:48,Road accident
+-9.824000613191014,32.63004904243967,Drought impact,Minor Injury,1192,2019-06-02 16:46:54,Pedestrian hit
+-10.951940417249373,34.374869121434685,Chemical burn,Moderate Injury,1321,2019-06-04 10:28:38,Pedestrian hit
+-13.23600574220738,32.188037756749274,Pesticide poisoning,Serious Injury,277,2019-06-16 20:52:05,Vehicle collision
+-13.799387250590753,33.97230883117871,Pesticide poisoning,Moderate Injury,1208,2019-06-08 02:02:45,Road accident
+-15.90418785338227,33.52948653848974,Falling from tractor,Fatalities,180,2019-06-22 03:21:46,Hit and run
+-13.284790848373403,35.588981373083236,Drought impact,Serious Injury,25,2019-06-22 03:39:26,Traffic jam due to accident
+-9.023965893539668,34.42554856462827,Falling from tractor,Moderate Injury,90,2019-06-25 18:26:30,Vehicle collision
+-11.339503274791966,34.84707157580457,Flood damage,Minor Injury,899,2019-06-04 14:34:49,Vehicle collision
+-14.214592450052603,35.27809475138445,Chemical burn,Fatalities,268,2019-06-06 20:19:45,Hit and run
+-16.510276353068893,34.15504645890465,Heavy equipment accident,Fatalities,154,2019-06-22 10:02:10,Traffic jam due to accident
+-15.725361545798286,35.40853706625776,Chemical burn,Serious Injury,15,2019-06-18 12:11:10,Roadside emergency
+-16.195386508541453,31.924180131405667,Flood damage,Serious Injury,335,2019-06-08 13:12:56,Roadside emergency
+-12.796741530673637,34.372278357705206,Crop fire,Moderate Injury,488,2019-06-28 18:12:29,Traffic jam due to accident
+-15.208576005979221,35.35458103704207,Chemical burn,Serious Injury,120,2019-06-24 05:21:44,Vehicle collision
+-10.761705277985428,35.627248786381834,Heavy equipment accident,Fatalities,242,2019-06-18 13:43:18,Single vehicle crash
+-12.113045243676916,34.16546748536589,Crop fire,Moderate Injury,1070,2019-06-02 03:19:12,Single vehicle crash
+-13.803323667877061,34.00284846649536,Crop fire,Minor Injury,520,2019-06-24 14:23:57,Pedestrian hit
+-14.266270575050228,32.70615550453679,Snake bite,Moderate Injury,721,2019-06-07 04:10:37,Multiple vehicle accident
+-11.417571452842335,34.15520817126442,Snake bite,Moderate Injury,313,2019-06-18 09:20:05,Multiple vehicle accident
+-12.42534067001094,34.94017136060881,Flood damage,Serious Injury,184,2019-06-03 10:49:20,Hit and run
+-11.793947558403158,31.728502837830412,Crop fire,Fatalities,65,2019-06-02 08:48:00,Traffic jam due to accident
+-16.36893926058113,34.8206061255851,Machinery malfunction,Moderate Injury,853,2019-06-04 06:50:53,Vehicle collision
+-13.957641927025039,32.45669688923246,Animal attack,Moderate Injury,483,2019-06-09 03:46:58,Hit and run
+-13.06521875856659,34.84605805708469,Machinery malfunction,Fatalities,228,2019-06-21 03:23:12,Multiple vehicle accident
+-16.424054175332305,32.32828071589247,Falling from tractor,Serious Injury,35,2019-06-29 17:04:31,Single vehicle crash
+-15.045343036413094,34.64997201151137,Crop fire,Moderate Injury,877,2019-06-05 01:45:18,Multiple vehicle accident
+-11.1272649512104,33.79864382204687,Crop fire,Serious Injury,398,2019-06-19 15:36:56,Hit and run
+-14.869533419255408,32.73497045733605,Crop fire,Serious Injury,42,2019-06-20 20:41:52,Roadside emergency
+-16.51477368439936,33.35024603467406,Animal attack,Fatalities,100,2019-06-02 11:50:14,Roadside emergency
+-14.635445811285077,34.025709153476264,Heavy equipment accident,Serious Injury,51,2019-06-10 07:23:17,Roadside emergency
+-16.213054385564316,35.560135748306166,Crop fire,Moderate Injury,666,2019-06-27 20:57:16,Road accident
+-14.394875713865135,35.56787875463817,Machinery malfunction,Serious Injury,61,2019-06-10 06:44:55,Roadside emergency
+-16.3439870387063,33.85216896187095,Machinery malfunction,Moderate Injury,710,2019-06-22 01:09:58,Single vehicle crash
+-13.961721923572961,34.68053019185978,Flood damage,Fatalities,42,2019-06-16 07:31:30,Multiple vehicle accident
+-13.658245735020362,33.47728427026741,Animal attack,Minor Injury,639,2019-06-09 10:44:19,Vehicle collision
+-13.884507254660516,33.10907370261656,Flood damage,Moderate Injury,768,2019-06-23 15:22:18,Traffic jam due to accident
+-16.38029650197827,34.81749775469032,Pesticide poisoning,Serious Injury,269,2019-06-13 10:57:26,Pedestrian hit
+-9.083883224580642,34.421518423954325,Snake bite,Fatalities,214,2019-06-14 10:55:21,Multiple vehicle accident
+-15.751437304372072,31.915293647987856,Pesticide poisoning,Moderate Injury,459,2019-06-16 21:24:34,Roadside emergency
+-15.091430207206404,33.33437609565965,Crop fire,Fatalities,123,2019-06-02 07:38:22,Road accident
+-12.112281293905934,34.282811392069405,Pesticide poisoning,Moderate Injury,250,2019-06-09 04:40:28,Roadside emergency
+-14.544439113910759,34.37583438630718,Chemical burn,Minor Injury,1313,2019-06-23 03:04:14,Traffic jam due to accident
+-9.251965050963216,31.922888662517718,Drought impact,Fatalities,159,2019-06-12 01:43:08,Traffic jam due to accident
+-15.166613629805738,34.8850872600349,Drought impact,Minor Injury,441,2019-06-20 19:44:01,Roadside emergency
+-10.78677914468205,32.536769335656885,Machinery malfunction,Fatalities,162,2019-06-27 06:07:11,Roadside emergency
+-10.962783581521979,32.2929777454475,Animal attack,Serious Injury,284,2019-06-20 23:31:30,Pedestrian hit
+-9.836024010021537,35.135779489105595,Flood damage,Fatalities,102,2019-06-23 00:07:10,Multiple vehicle accident
+-12.493109216385156,35.04275117483637,Crop fire,Serious Injury,383,2019-06-14 15:55:22,Multiple vehicle accident
+-15.226497408223214,34.70364633089392,Machinery malfunction,Minor Injury,284,2019-06-15 09:52:00,Roadside emergency
+-13.543791374548794,33.439541340172696,Animal attack,Moderate Injury,1379,2019-06-09 03:02:13,Pedestrian hit
+-11.9603543661695,32.76193210818311,Crop fire,Serious Injury,334,2019-06-16 22:40:16,Vehicle collision
+-13.146242423465281,34.718526246681456,Flood damage,Fatalities,101,2019-06-14 14:01:57,Hit and run
+-15.331967820597868,35.280691612762524,Falling from tractor,Fatalities,23,2019-06-02 23:59:58,Vehicle collision
+-13.888705657305739,35.29278712878057,Chemical burn,Moderate Injury,1399,2019-06-15 23:52:52,Single vehicle crash
+-9.798587243051557,32.91450688029654,Machinery malfunction,Moderate Injury,1447,2019-06-16 23:23:44,Hit and run
+-12.850231105761235,32.64152257158472,Pesticide poisoning,Fatalities,42,2019-06-19 06:01:44,Hit and run
+-12.506320684524704,34.559310410274186,Heavy equipment accident,Moderate Injury,1143,2019-06-01 20:12:27,Traffic jam due to accident
+-9.043360965761394,34.52232774251179,Falling from tractor,Moderate Injury,1113,2019-06-09 08:31:33,Single vehicle crash
+-16.060892002405456,34.00151637345939,Flood damage,Fatalities,190,2019-06-07 18:17:41,Vehicle collision
+-16.03850594973177,33.42921733386986,Flood damage,Fatalities,43,2019-06-08 15:36:49,Traffic jam due to accident
+-12.560120138139688,34.67662328864228,Chemical burn,Moderate Injury,604,2019-06-02 08:43:43,Single vehicle crash
+-9.497830283034846,31.828283545064103,Machinery malfunction,Serious Injury,40,2019-06-07 18:25:04,Multiple vehicle accident
+-14.202167591940771,35.33925344139744,Pesticide poisoning,Moderate Injury,293,2019-06-19 07:34:56,Single vehicle crash
+-14.757413891901724,33.10147855606072,Animal attack,Moderate Injury,284,2019-06-22 19:27:13,Multiple vehicle accident
+-14.742278015546965,33.14968059164436,Crop fire,Minor Injury,168,2019-06-10 13:28:35,Single vehicle crash
+-11.752768491531953,34.8122690311998,Drought impact,Minor Injury,1150,2019-06-07 18:39:35,Multiple vehicle accident
+-10.05257117726196,35.483747367125794,Pesticide poisoning,Minor Injury,615,2019-06-06 17:01:47,Pedestrian hit
+-14.730199792868767,33.791258945899905,Machinery malfunction,Minor Injury,93,2019-06-06 09:50:14,Traffic jam due to accident
+-10.475838611987431,33.40208013367135,Drought impact,Moderate Injury,365,2019-06-14 09:29:22,Road accident
+-13.977873096011614,32.713915022298664,Pesticide poisoning,Serious Injury,86,2019-06-16 01:50:42,Traffic jam due to accident
+-15.143803175919206,35.29208125978049,Flood damage,Serious Injury,32,2019-06-06 10:07:13,Roadside emergency
+-14.804169399810723,33.67508116920366,Chemical burn,Moderate Injury,645,2019-06-12 19:31:32,Roadside emergency
+-13.924647425037076,34.0851334038252,Crop fire,Fatalities,177,2019-06-28 21:03:52,Single vehicle crash
+-11.697309418958817,35.607532554180494,Flood damage,Serious Injury,348,2019-06-09 09:01:33,Road accident
+-13.00344252317523,35.017134841864504,Crop fire,Serious Injury,126,2019-06-17 23:44:50,Road accident
+-13.426713691488308,34.71077159085436,Snake bite,Serious Injury,381,2019-06-26 18:06:40,Pedestrian hit
+-9.144216905343738,32.121367460904345,Flood damage,Serious Injury,288,2019-06-24 13:11:52,Roadside emergency
+-10.523389108895552,33.556012534048016,Snake bite,Serious Injury,243,2019-06-02 06:41:56,Single vehicle crash
+-16.2527670552919,33.51828062562718,Machinery malfunction,Minor Injury,430,2019-06-01 23:30:42,Multiple vehicle accident
+-15.70759283546584,32.91271347569427,Heavy equipment accident,Moderate Injury,1305,2019-06-13 05:46:54,Single vehicle crash
+-10.347699794085319,32.46656962841146,Pesticide poisoning,Serious Injury,182,2019-06-18 18:52:19,Hit and run
+-15.933861604426895,34.183223053833906,Drought impact,Moderate Injury,1273,2019-06-23 13:53:35,Hit and run
+-10.569573881128743,34.37087050139226,Heavy equipment accident,Moderate Injury,839,2019-06-01 09:46:08,Road accident
+-8.977400032273373,32.59874337046651,Machinery malfunction,Moderate Injury,651,2019-06-15 11:16:49,Single vehicle crash
+-12.91241115085009,34.53305048597427,Snake bite,Minor Injury,1011,2019-06-11 23:54:11,Multiple vehicle accident
+-9.549665248870378,34.40485382969421,Animal attack,Moderate Injury,1090,2019-06-25 12:19:11,Pedestrian hit
+-13.756421113262375,33.58498381773235,Flood damage,Serious Injury,81,2019-06-21 03:58:52,Traffic jam due to accident
+-15.439065233967938,32.70521659265353,Crop fire,Moderate Injury,1427,2019-06-05 23:10:07,Hit and run
+-14.387019106234458,32.67038578515136,Crop fire,Minor Injury,1216,2019-06-20 07:05:12,Hit and run
+-15.066333741651324,34.365396225345386,Machinery malfunction,Moderate Injury,668,2019-06-22 00:49:28,Multiple vehicle accident
+-13.015678950385748,33.38119792354154,Falling from tractor,Serious Injury,64,2019-06-07 09:57:44,Pedestrian hit
+-9.346995647245054,32.231708112903846,Snake bite,Serious Injury,185,2019-06-10 01:12:06,Road accident
+-10.797219610245282,34.67022178081136,Pesticide poisoning,Serious Injury,66,2019-06-16 09:29:03,Road accident
+-12.686249978787291,32.99760949283189,Machinery malfunction,Serious Injury,361,2019-06-17 04:01:27,Single vehicle crash
+-15.564606565436513,31.8758963016785,Animal attack,Minor Injury,1349,2019-06-11 04:18:02,Traffic jam due to accident
+-12.28533738341493,34.126032921843716,Pesticide poisoning,Minor Injury,795,2019-06-22 12:48:47,Road accident
+-12.523015902833757,32.744713796365616,Flood damage,Moderate Injury,67,2019-06-07 17:10:09,Roadside emergency
+-16.274604462431316,35.588382840195486,Crop fire,Moderate Injury,1082,2019-06-13 06:43:05,Traffic jam due to accident
+-16.41038831170153,34.07963785690143,Drought impact,Fatalities,235,2019-06-28 09:54:23,Road accident
+-10.05062350111327,32.133604209554505,Flood damage,Minor Injury,589,2019-06-16 15:04:33,Multiple vehicle accident
+-15.772807581261503,32.046214113101996,Animal attack,Minor Injury,62,2019-06-28 10:18:39,Traffic jam due to accident
+-9.951259306611322,34.30402846591924,Drought impact,Moderate Injury,1186,2019-06-23 08:46:21,Road accident
+-11.81168560857861,32.013330411699044,Drought impact,Moderate Injury,696,2019-06-20 18:03:50,Traffic jam due to accident
+-14.13733984382982,32.76718474072875,Falling from tractor,Moderate Injury,1172,2019-06-26 03:45:01,Traffic jam due to accident
+-14.807162436103443,33.89721143845307,Pesticide poisoning,Fatalities,13,2019-06-13 02:28:59,Hit and run
+-14.0952563513291,32.4816005288029,Pesticide poisoning,Moderate Injury,925,2019-06-20 19:26:52,Road accident
+-10.89400842395235,35.41360148184216,Machinery malfunction,Fatalities,240,2019-06-29 08:32:17,Single vehicle crash
+-12.645745838062492,34.53467223806634,Chemical burn,Fatalities,80,2019-06-12 20:29:37,Single vehicle crash
+-10.272115681587959,33.94330851807264,Heavy equipment accident,Minor Injury,1057,2019-06-06 17:21:21,Roadside emergency
+-11.826095827856587,35.35863343519407,Heavy equipment accident,Moderate Injury,115,2019-06-27 15:41:58,Road accident
+-16.361277151198134,33.964183299476474,Chemical burn,Fatalities,294,2019-06-21 23:57:45,Pedestrian hit
+-11.4705943020106,35.581042201388215,Snake bite,Minor Injury,453,2019-06-05 00:29:40,Roadside emergency
+-9.154667092941512,33.46611567481834,Animal attack,Minor Injury,889,2019-06-03 12:26:33,Road accident
+-14.130380989634531,32.71821072981087,Machinery malfunction,Moderate Injury,1218,2019-06-25 19:55:14,Hit and run
+-15.135740573816054,32.82432358215648,Snake bite,Minor Injury,895,2019-06-26 16:11:39,Roadside emergency
+-11.169284372496707,35.102403323308494,Heavy equipment accident,Serious Injury,59,2019-06-11 18:20:12,Roadside emergency
+-10.378902173929323,32.357112568630555,Chemical burn,Serious Injury,235,2019-06-22 02:12:40,Road accident
+-14.18404194900052,32.351640953197816,Machinery malfunction,Fatalities,124,2019-06-27 20:18:39,Hit and run
+-12.144267731607627,33.576498154943934,Drought impact,Serious Injury,315,2019-06-27 22:35:43,Single vehicle crash
+-12.166239350650242,34.10917050574882,Machinery malfunction,Minor Injury,790,2019-06-26 06:14:49,Multiple vehicle accident
+-12.54991789318575,33.28281281410119,Snake bite,Minor Injury,586,2019-06-05 19:37:29,Multiple vehicle accident
+-12.344808505965272,33.28141435585097,Pesticide poisoning,Fatalities,186,2019-06-06 04:46:12,Road accident
+-12.334756182327736,31.82288090938105,Chemical burn,Minor Injury,1002,2019-06-19 02:33:08,Single vehicle crash
+-13.611759931781519,32.399390577221986,Machinery malfunction,Serious Injury,18,2019-06-26 16:45:28,Roadside emergency
+-11.185195516353907,32.0488424362247,Snake bite,Minor Injury,1189,2019-06-26 20:35:48,Road accident
+-15.269822219158948,34.20331372687052,Machinery malfunction,Serious Injury,325,2019-06-23 23:56:47,Single vehicle crash
+-11.914590626573926,35.283081729125755,Flood damage,Serious Injury,13,2019-06-01 04:41:27,Traffic jam due to accident
+-15.647238776183496,32.85412881834686,Machinery malfunction,Serious Injury,187,2019-06-10 08:32:56,Vehicle collision
+-10.207640780149912,32.587215355590345,Pesticide poisoning,Serious Injury,262,2019-06-06 06:29:42,Traffic jam due to accident
+-10.778713524415057,34.78137719409274,Machinery malfunction,Minor Injury,672,2019-06-19 03:48:57,Roadside emergency
+-11.814593289620667,33.933010292046355,Snake bite,Minor Injury,1136,2019-06-28 18:42:51,Road accident
+-14.838059908902256,33.99883975082617,Pesticide poisoning,Moderate Injury,1094,2019-06-28 16:29:26,Hit and run
+-15.583881905483677,33.95127302300949,Drought impact,Serious Injury,247,2019-06-13 07:47:11,Hit and run
+-11.29733202509899,34.60777079055788,Chemical burn,Fatalities,169,2019-06-17 06:58:29,Multiple vehicle accident
+-12.513649740640185,35.06197259021746,Drought impact,Serious Injury,35,2019-06-19 01:23:21,Pedestrian hit
+-11.33942982320027,35.056185911784716,Heavy equipment accident,Moderate Injury,913,2019-06-27 13:54:37,Multiple vehicle accident
+-14.434685194459277,33.07064504757999,Heavy equipment accident,Minor Injury,1015,2019-06-23 13:08:04,Multiple vehicle accident
+-15.973055675254612,34.031724144634346,Crop fire,Serious Injury,346,2019-06-11 19:51:55,Pedestrian hit
+-14.863554023706925,34.31998397564633,Snake bite,Fatalities,76,2019-06-12 21:17:13,Multiple vehicle accident
+-11.492576343229338,34.596628670056845,Chemical burn,Minor Injury,1109,2019-06-15 16:29:12,Hit and run
+-12.124866577095435,35.49498880008731,Chemical burn,Minor Injury,1426,2019-06-21 16:32:30,Road accident
+-15.061117515279062,32.438409663679764,Chemical burn,Serious Injury,146,2019-06-25 00:14:38,Single vehicle crash
+-12.348331604612167,32.54099609447903,Machinery malfunction,Minor Injury,382,2019-06-25 03:48:00,Traffic jam due to accident
+-12.972034320574306,35.61516246720998,Flood damage,Serious Injury,174,2019-06-05 05:00:49,Traffic jam due to accident
+-15.430083768961207,35.104199395535616,Crop fire,Fatalities,246,2019-06-08 20:11:34,Roadside emergency
+-9.172314379690503,34.25954744586846,Snake bite,Serious Injury,232,2019-06-01 20:30:25,Hit and run
+-10.87566929089677,32.22673610455402,Heavy equipment accident,Fatalities,265,2019-06-09 14:07:38,Hit and run
+-11.018125482454474,34.51528801232753,Machinery malfunction,Minor Injury,862,2019-06-19 04:24:03,Road accident
+-12.434958622036039,35.120191029507275,Heavy equipment accident,Moderate Injury,97,2019-06-09 10:32:06,Traffic jam due to accident
+-9.873814401165948,34.60213171153497,Heavy equipment accident,Serious Injury,40,2019-06-17 02:50:59,Roadside emergency
+-14.523762948651367,33.19971536603998,Crop fire,Minor Injury,1214,2019-06-27 05:18:07,Pedestrian hit
+-15.126861911555627,32.08794435754321,Crop fire,Moderate Injury,544,2019-06-02 12:03:21,Traffic jam due to accident
+-14.537980367892251,31.94470142459673,Snake bite,Serious Injury,138,2019-06-12 02:23:19,Hit and run
+-10.310030615476926,33.384662285214986,Machinery malfunction,Minor Injury,330,2019-06-09 21:08:33,Multiple vehicle accident
+-11.47943711498041,33.96045826350813,Crop fire,Fatalities,104,2019-06-12 20:22:26,Traffic jam due to accident
+-14.676645061778274,34.74353375553482,Pesticide poisoning,Minor Injury,411,2019-06-29 00:35:48,Multiple vehicle accident
+-13.682606206637324,34.88734784692126,Chemical burn,Serious Injury,169,2019-06-05 20:15:42,Single vehicle crash
+-11.610742942131232,33.47017178984132,Pesticide poisoning,Minor Injury,1163,2019-06-27 17:46:25,Road accident
+-11.729820054112654,35.480901022100454,Flood damage,Serious Injury,19,2019-06-22 10:34:31,Vehicle collision
+-9.37822566066994,32.423583684656435,Machinery malfunction,Minor Injury,178,2019-06-01 19:37:07,Road accident
+-9.73532590927016,33.567412102136814,Drought impact,Serious Injury,373,2019-06-25 11:24:24,Traffic jam due to accident
+-15.96035729662105,33.67795310918604,Drought impact,Minor Injury,603,2019-06-13 00:46:19,Hit and run
+-11.900201446734533,33.61848864766337,Snake bite,Moderate Injury,1058,2019-06-10 02:47:12,Traffic jam due to accident
+-9.504044587502518,32.696673394588096,Chemical burn,Serious Injury,157,2019-06-12 15:42:04,Hit and run
+-10.994229553441807,34.520121488998136,Animal attack,Fatalities,142,2019-06-12 22:33:39,Traffic jam due to accident
+-9.65329773402161,34.59467467379071,Chemical burn,Minor Injury,384,2019-06-17 04:39:01,Road accident
+-11.814058401593389,34.150811879094796,Heavy equipment accident,Moderate Injury,83,2019-06-19 07:34:45,Hit and run
+-10.339842165035021,31.953214915313673,Heavy equipment accident,Minor Injury,1262,2019-06-28 08:28:50,Vehicle collision
+-14.142860652308368,32.36154848490674,Falling from tractor,Serious Injury,319,2019-06-21 04:54:44,Road accident
+-13.036758506841622,33.038917701961395,Chemical burn,Fatalities,266,2019-06-22 16:32:24,Single vehicle crash
+-15.72278237173541,31.83886010715166,Flood damage,Fatalities,133,2019-06-08 05:58:00,Hit and run
+-10.744953703699693,31.897453149308966,Machinery malfunction,Serious Injury,340,2019-06-29 05:37:37,Road accident
+-14.468204544887099,34.392926672467354,Falling from tractor,Minor Injury,357,2019-06-14 21:57:34,Traffic jam due to accident
+-15.143830314953213,34.32348395776407,Snake bite,Fatalities,183,2019-06-27 08:08:53,Single vehicle crash
+-16.65277511559223,34.11761595593841,Machinery malfunction,Minor Injury,159,2019-06-06 22:55:20,Vehicle collision
+-11.352254372588472,32.10043980771128,Pesticide poisoning,Minor Injury,48,2019-06-04 08:08:36,Road accident
+-15.41067951152607,34.046035095225214,Snake bite,Serious Injury,189,2019-06-02 20:06:39,Hit and run
+-8.99930948863791,32.3948914663185,Machinery malfunction,Fatalities,116,2019-06-11 22:18:51,Roadside emergency
+-11.039713667985644,34.74574375095562,Machinery malfunction,Fatalities,226,2019-06-21 00:29:22,Traffic jam due to accident
+-12.251552333327806,34.96045717581621,Falling from tractor,Minor Injury,1207,2019-06-08 05:14:33,Single vehicle crash
+-12.022130673999897,33.98180395727223,Crop fire,Moderate Injury,1227,2019-06-27 00:01:37,Pedestrian hit
+-12.104452697430514,34.80181619697018,Pesticide poisoning,Moderate Injury,1499,2019-06-12 22:10:46,Traffic jam due to accident
+-15.50887850986269,35.265851649061034,Pesticide poisoning,Serious Injury,234,2019-06-04 02:09:39,Single vehicle crash
+-10.443919433880758,34.14937562561405,Machinery malfunction,Fatalities,176,2019-06-21 06:34:14,Road accident
+-15.087933146255018,32.09482658724244,Chemical burn,Moderate Injury,1436,2019-06-11 07:14:10,Vehicle collision
+-15.861356555750584,33.30420972747208,Pesticide poisoning,Minor Injury,253,2019-06-19 01:20:31,Roadside emergency
+-9.049336391048184,33.921537888402796,Drought impact,Fatalities,62,2019-06-03 06:26:49,Pedestrian hit
+-16.698559410389617,32.629710050390145,Drought impact,Minor Injury,1264,2019-06-25 02:34:10,Single vehicle crash
+-13.73085014391114,33.8115554083967,Pesticide poisoning,Moderate Injury,1307,2019-06-01 21:08:57,Hit and run
+-9.30139778391835,33.08905130117229,Machinery malfunction,Moderate Injury,1332,2019-06-08 18:59:46,Pedestrian hit
+-8.942606191347153,32.29319393858971,Pesticide poisoning,Moderate Injury,238,2019-06-15 14:19:06,Multiple vehicle accident
+-12.018125963362198,32.1885044277621,Chemical burn,Minor Injury,697,2019-06-02 14:08:20,Traffic jam due to accident
+-14.55871203759331,32.16401116749426,Animal attack,Serious Injury,97,2019-06-18 14:24:07,Pedestrian hit
+-12.786445621903743,32.458886047444615,Falling from tractor,Serious Injury,354,2019-06-26 06:42:57,Roadside emergency
+-10.171171361945657,33.42862898035915,Machinery malfunction,Moderate Injury,1330,2019-06-25 19:35:02,Roadside emergency
+-11.069215238444649,33.94742104413348,Machinery malfunction,Moderate Injury,747,2019-06-19 11:45:55,Vehicle collision
+-9.330171700858994,33.35976983270204,Falling from tractor,Fatalities,62,2019-06-10 10:33:35,Traffic jam due to accident
+-16.523904421944327,33.39984641521224,Pesticide poisoning,Serious Injury,84,2019-06-16 09:07:51,Hit and run
+-12.30111434319488,33.21218481268312,Heavy equipment accident,Fatalities,116,2019-06-07 05:23:13,Single vehicle crash
+-9.06423537479667,31.938067686579725,Animal attack,Serious Injury,319,2019-06-23 06:25:26,Roadside emergency
+-12.466155219335366,33.320805261208925,Flood damage,Serious Injury,296,2019-06-12 11:06:46,Traffic jam due to accident
+-13.03964217937443,34.022531059454636,Chemical burn,Minor Injury,1213,2019-06-28 17:35:01,Road accident
+-13.90892128495242,33.8105896670697,Heavy equipment accident,Minor Injury,304,2019-06-03 01:51:58,Pedestrian hit
+-15.40938538001155,33.0327033496504,Animal attack,Serious Injury,344,2019-06-01 14:51:26,Pedestrian hit
+-10.275007343103987,33.594569377635544,Animal attack,Moderate Injury,829,2019-06-02 23:12:37,Multiple vehicle accident
+-13.550351841298156,35.0805973546861,Animal attack,Fatalities,29,2019-06-25 09:29:32,Traffic jam due to accident
+-16.763875124569857,32.52908350313366,Snake bite,Serious Injury,139,2019-06-13 20:58:07,Vehicle collision
+-13.00223786010773,34.36742395863743,Falling from tractor,Serious Injury,151,2019-06-01 02:00:18,Roadside emergency
+-15.453232181326996,31.832519667824887,Drought impact,Minor Injury,289,2019-06-22 09:07:07,Roadside emergency
+-15.559169667411972,32.90586804247794,Drought impact,Minor Injury,1438,2019-06-05 02:47:09,Vehicle collision
+-11.446869607477367,32.826322405623685,Flood damage,Moderate Injury,836,2019-06-15 21:21:19,Single vehicle crash
+-9.266447195939516,35.65554641216224,Falling from tractor,Serious Injury,356,2019-06-13 01:31:41,Road accident
+-10.50779580075378,32.18067016981637,Crop fire,Moderate Injury,994,2019-06-02 00:17:24,Hit and run
+-12.746364214144215,32.59102423420742,Machinery malfunction,Serious Injury,269,2019-06-02 11:09:48,Multiple vehicle accident
+-11.172348480485882,35.45339901535875,Crop fire,Minor Injury,1253,2019-06-09 14:34:14,Roadside emergency
+-12.907892347663287,34.594745704611924,Flood damage,Moderate Injury,358,2019-06-15 15:15:21,Vehicle collision
+-14.709337987542995,33.56586195659706,Animal attack,Fatalities,141,2019-06-28 08:42:28,Pedestrian hit
+-14.75080087657479,34.02629040166385,Flood damage,Fatalities,59,2019-06-12 02:06:31,Multiple vehicle accident
+-9.47402740785994,33.473235790759475,Flood damage,Fatalities,189,2019-06-13 15:05:12,Single vehicle crash
+-16.560106065508926,32.43955527089449,Animal attack,Fatalities,193,2019-06-18 07:00:36,Road accident
+-12.791647243012463,32.68986505174039,Heavy equipment accident,Moderate Injury,426,2019-06-22 05:56:39,Traffic jam due to accident
+-11.937047318788663,32.435488404389204,Flood damage,Serious Injury,172,2019-06-26 05:24:25,Multiple vehicle accident
+-13.950637308781884,35.25092675631105,Machinery malfunction,Moderate Injury,489,2019-06-22 14:27:03,Traffic jam due to accident
+-16.719042620506418,35.291544263163146,Pesticide poisoning,Serious Injury,137,2019-06-04 18:09:22,Hit and run
+-14.467894742800725,33.65121730151955,Crop fire,Minor Injury,857,2019-06-20 23:59:03,Multiple vehicle accident
+-11.364267264283516,32.55550725198168,Heavy equipment accident,Moderate Injury,628,2019-06-25 16:27:12,Pedestrian hit
+-16.546555830991224,33.92034600698754,Flood damage,Fatalities,167,2019-06-11 07:41:30,Road accident
+-9.573935883383049,33.57242054406906,Snake bite,Moderate Injury,1469,2019-06-24 19:21:52,Multiple vehicle accident
+-8.942306614410915,35.01117976967746,Machinery malfunction,Moderate Injury,1331,2019-06-23 21:22:07,Road accident
+-15.457398779075703,33.72235569576699,Machinery malfunction,Minor Injury,519,2019-06-13 10:55:04,Hit and run
+-14.730919689929479,33.190257857831625,Crop fire,Serious Injury,19,2019-06-26 17:36:02,Pedestrian hit
+-8.94874640754411,32.87176589595532,Drought impact,Moderate Injury,936,2019-06-16 20:24:31,Multiple vehicle accident
+-16.559707214645222,31.711196816006005,Crop fire,Fatalities,266,2019-06-13 07:47:08,Roadside emergency
+-11.694522178492562,31.781828603443756,Snake bite,Minor Injury,1210,2019-06-20 11:16:18,Roadside emergency
+-9.718747534852909,35.17367101626832,Crop fire,Minor Injury,87,2019-06-21 09:28:23,Hit and run
+-13.03526178259264,31.713620484663817,Falling from tractor,Minor Injury,512,2019-06-22 07:18:00,Hit and run
+-8.846409354926159,32.308239688473876,Machinery malfunction,Moderate Injury,76,2019-06-09 15:11:44,Roadside emergency
+-13.158019460637124,33.55937865793752,Machinery malfunction,Minor Injury,434,2019-06-24 08:44:15,Hit and run
+-12.129587761817632,32.596877669475546,Heavy equipment accident,Serious Injury,192,2019-06-25 01:26:18,Road accident
+-9.521526578959474,33.85343134220437,Machinery malfunction,Minor Injury,1358,2019-06-20 06:03:45,Roadside emergency
+-8.964804812323207,33.634835538703875,Pesticide poisoning,Serious Injury,210,2019-06-10 01:26:22,Traffic jam due to accident
+-10.940629911300208,34.425078040809225,Heavy equipment accident,Minor Injury,513,2019-06-07 16:40:14,Single vehicle crash
+-12.530892066128411,34.105733540114485,Drought impact,Minor Injury,598,2019-06-23 15:51:46,Hit and run
+-12.053473264986778,33.26174623092445,Drought impact,Serious Injury,331,2019-06-23 05:21:02,Road accident
+-9.795080177296326,33.25427266530081,Crop fire,Moderate Injury,854,2019-06-02 04:29:18,Roadside emergency
+-13.064474629846215,32.702361791926954,Flood damage,Serious Injury,213,2019-06-15 22:13:50,Hit and run
+-13.192180643299864,32.48610067191953,Pesticide poisoning,Fatalities,246,2019-06-03 04:31:01,Multiple vehicle accident
+-9.818987463667053,34.855621846589415,Chemical burn,Moderate Injury,190,2019-06-21 14:56:00,Roadside emergency
+-9.949256426914902,32.826846392667434,Flood damage,Fatalities,45,2019-06-07 17:36:21,Pedestrian hit
+-12.720033113940376,33.37162995567262,Falling from tractor,Moderate Injury,1278,2019-06-06 19:22:34,Road accident
+-16.569488101926357,34.03943534930341,Machinery malfunction,Fatalities,228,2019-06-16 22:46:21,Hit and run
+-15.676782659891888,33.76810866988207,Heavy equipment accident,Fatalities,176,2019-06-25 13:58:23,Vehicle collision
+-15.788747293423341,32.69320608190535,Falling from tractor,Serious Injury,72,2019-06-21 09:18:49,Traffic jam due to accident
+-12.986764631584752,34.80654169867719,Flood damage,Minor Injury,1035,2019-06-28 14:55:51,Roadside emergency
+-16.497239572798122,33.091196638807126,Heavy equipment accident,Fatalities,93,2019-06-29 20:38:07,Road accident
+-12.978320241872892,32.96049963281555,Pesticide poisoning,Fatalities,39,2019-06-12 00:57:33,Road accident
+-9.286064382141802,32.1471760022818,Drought impact,Serious Injury,119,2019-06-12 22:40:09,Hit and run
+-9.561813802066471,34.02225248505918,Snake bite,Minor Injury,1050,2019-06-02 07:32:04,Road accident
+-11.478405945621764,32.36286648812046,Crop fire,Minor Injury,381,2019-06-03 16:50:46,Road accident
+-11.055930566479997,33.747334651132064,Falling from tractor,Moderate Injury,831,2019-06-03 08:34:26,Single vehicle crash
+-9.079266048987872,35.20372488068244,Animal attack,Fatalities,46,2019-06-15 01:43:26,Pedestrian hit
+-10.54396784789266,34.716662266571014,Pesticide poisoning,Serious Injury,213,2019-06-04 04:56:11,Vehicle collision
+-14.930435835300317,35.480245519702194,Heavy equipment accident,Minor Injury,850,2019-06-27 19:24:27,Vehicle collision
+-12.229325783057156,34.78681523913785,Machinery malfunction,Moderate Injury,193,2019-06-02 21:47:35,Hit and run
+-9.035192891911475,33.73507061908526,Machinery malfunction,Serious Injury,309,2019-06-01 16:25:35,Roadside emergency
+-14.183324656364768,32.53306297641814,Crop fire,Fatalities,53,2019-06-05 16:35:03,Single vehicle crash
+-11.4112467685528,35.47101000653075,Flood damage,Minor Injury,1260,2019-06-29 05:14:24,Road accident
+-16.343736523805724,34.056542483897424,Drought impact,Moderate Injury,1309,2019-06-22 21:36:31,Single vehicle crash
+-11.172545494130482,34.88474090745208,Snake bite,Minor Injury,707,2019-06-07 04:20:31,Vehicle collision
+-16.34169021349673,33.477615618744984,Machinery malfunction,Serious Injury,226,2019-06-18 06:53:24,Hit and run
+-12.405619262470715,34.3139101760381,Pesticide poisoning,Moderate Injury,532,2019-06-16 14:01:05,Single vehicle crash
+-13.035690241786583,32.93089706476504,Animal attack,Minor Injury,682,2019-06-22 13:00:26,Multiple vehicle accident
+-13.193320179357894,34.077648468327396,Pesticide poisoning,Minor Injury,683,2019-06-19 12:37:10,Traffic jam due to accident
+-10.135699885507943,33.821013489259784,Machinery malfunction,Moderate Injury,695,2019-06-05 03:32:38,Hit and run
+-13.330658798412195,35.05176044557643,Chemical burn,Fatalities,158,2019-06-29 01:37:17,Pedestrian hit
+-11.562910390108621,34.34877693175977,Machinery malfunction,Fatalities,145,2019-06-21 23:45:58,Traffic jam due to accident
+-14.418644129947651,32.74781925334925,Machinery malfunction,Moderate Injury,1315,2019-06-29 10:58:01,Roadside emergency
+-9.595506682798007,33.268210702026266,Heavy equipment accident,Serious Injury,39,2019-06-26 08:02:30,Hit and run
+-16.560862332914088,34.05222110909531,Drought impact,Fatalities,161,2019-06-08 20:30:48,Hit and run
+-16.3091193003703,35.205413640660794,Machinery malfunction,Minor Injury,100,2019-06-10 13:39:29,Single vehicle crash
+-11.932849759887377,32.865472978345665,Flood damage,Fatalities,38,2019-06-08 18:01:29,Traffic jam due to accident
+-11.0523724378701,33.75710727437757,Falling from tractor,Serious Injury,153,2019-06-22 05:30:12,Hit and run
+-12.399375068201518,34.679605504552605,Pesticide poisoning,Moderate Injury,223,2019-06-16 09:44:51,Traffic jam due to accident
+-10.592983602428198,35.16111886565262,Chemical burn,Fatalities,226,2019-06-05 01:28:38,Vehicle collision
+-12.815266892921068,33.40548057164664,Falling from tractor,Fatalities,193,2019-06-06 16:19:04,Single vehicle crash
+-14.145886267402402,34.70149993905011,Heavy equipment accident,Serious Injury,81,2019-06-12 15:53:21,Vehicle collision
+-16.14939650931957,32.69578061752471,Animal attack,Moderate Injury,582,2019-06-19 09:31:30,Hit and run
+-11.207318773001443,32.68671221343801,Falling from tractor,Fatalities,39,2019-06-12 16:31:07,Single vehicle crash
+-9.76532345341926,31.724896919673412,Pesticide poisoning,Fatalities,231,2019-06-04 06:07:35,Traffic jam due to accident
+-9.865878088213112,33.426119149754236,Falling from tractor,Minor Injury,97,2019-06-16 04:01:18,Vehicle collision
+-11.038548301077968,31.764233742625333,Animal attack,Fatalities,27,2019-06-26 06:38:39,Traffic jam due to accident
+-13.990590223550551,34.74340827293602,Drought impact,Fatalities,213,2019-06-02 13:55:01,Multiple vehicle accident
+-14.356463165448686,34.797181403027075,Flood damage,Moderate Injury,1382,2019-06-04 12:59:26,Single vehicle crash
+-11.049480459822778,33.4114561636117,Snake bite,Serious Injury,174,2019-06-21 20:36:10,Roadside emergency
+-11.87847219118489,33.36865269418135,Crop fire,Fatalities,175,2019-06-18 08:22:55,Roadside emergency
+-14.636010426281317,33.63928251779457,Chemical burn,Fatalities,89,2019-06-27 22:13:14,Road accident
+-14.326852191431216,34.99760274862973,Crop fire,Fatalities,98,2019-06-13 09:01:03,Roadside emergency
+-13.15094094514031,33.8028415992017,Animal attack,Serious Injury,33,2019-06-02 16:00:14,Pedestrian hit
+-12.753777390953477,32.06702406203271,Heavy equipment accident,Moderate Injury,1033,2019-06-26 22:07:22,Roadside emergency
+-15.051386816918821,33.4163819947714,Chemical burn,Fatalities,276,2019-06-19 21:47:52,Vehicle collision
+-14.298557553874494,33.943549753641086,Machinery malfunction,Fatalities,107,2019-06-05 08:04:41,Road accident
+-11.866704974831851,33.95616628634946,Drought impact,Fatalities,73,2019-06-13 01:35:34,Road accident
+-11.92916972387847,32.91962303536545,Snake bite,Serious Injury,14,2019-06-21 21:02:26,Pedestrian hit
+-12.739014651025451,33.11719628415699,Pesticide poisoning,Fatalities,60,2019-06-07 02:24:31,Vehicle collision
+-16.596291896206868,33.003892822761884,Heavy equipment accident,Minor Injury,822,2019-06-04 17:55:34,Roadside emergency
+-9.951747601803415,34.52542376210783,Crop fire,Serious Injury,84,2019-06-04 08:18:35,Single vehicle crash
+-13.344856605813726,32.5675281580499,Falling from tractor,Moderate Injury,270,2019-06-20 03:02:46,Single vehicle crash
+-13.642575020401262,32.9085625467021,Flood damage,Fatalities,234,2019-06-25 10:05:38,Multiple vehicle accident
+-11.445225783053711,33.759731413979985,Chemical burn,Fatalities,191,2019-06-17 00:41:36,Roadside emergency
+-16.692605865382518,34.96353406366741,Pesticide poisoning,Minor Injury,1217,2019-06-17 22:41:56,Pedestrian hit
+-15.851381856393955,32.097551013306074,Pesticide poisoning,Minor Injury,313,2019-06-21 02:43:48,Pedestrian hit
+-10.004850565375744,33.34397176531356,Crop fire,Minor Injury,1274,2019-06-21 07:15:04,Single vehicle crash
+-14.718418791714127,31.925278412179306,Machinery malfunction,Moderate Injury,751,2019-06-09 01:49:34,Hit and run
+-14.113085277724096,32.73993834724463,Snake bite,Minor Injury,1435,2019-06-24 14:02:13,Multiple vehicle accident
+-15.07272403215237,34.4916256825708,Animal attack,Minor Injury,1019,2019-06-22 07:01:21,Roadside emergency
+-9.170391178741276,34.631260741540025,Drought impact,Minor Injury,306,2019-06-14 06:48:14,Traffic jam due to accident
+-12.99330752093208,32.85166758892551,Animal attack,Fatalities,38,2019-06-04 17:13:01,Roadside emergency
+-11.297339319403196,34.39638572431813,Chemical burn,Moderate Injury,238,2019-06-27 17:04:32,Roadside emergency
+-9.965183445185174,33.89980799233874,Crop fire,Moderate Injury,649,2019-06-19 05:04:02,Roadside emergency
+-15.519166750350946,32.62064292421206,Crop fire,Minor Injury,88,2019-06-06 05:59:06,Hit and run
+-12.877873090605332,34.839737120845605,Machinery malfunction,Moderate Injury,65,2019-06-18 10:03:34,Single vehicle crash
+-13.048899766140023,34.85050389675114,Chemical burn,Minor Injury,110,2019-06-25 05:38:16,Hit and run
+-11.871733420309246,33.56203923135899,Flood damage,Moderate Injury,1499,2019-06-17 00:07:34,Vehicle collision
+-11.536874302722318,34.62298265527479,Machinery malfunction,Minor Injury,84,2019-06-28 16:43:33,Roadside emergency
+-15.65455349513602,33.26873843391714,Machinery malfunction,Minor Injury,1044,2019-06-03 20:34:11,Hit and run
+-13.691674765710752,34.00838309834649,Machinery malfunction,Moderate Injury,203,2019-06-17 11:04:40,Roadside emergency
+-15.793407955181713,34.03731776778219,Pesticide poisoning,Minor Injury,342,2019-06-14 09:18:06,Hit and run
+-16.516926114928612,32.494924894666234,Heavy equipment accident,Moderate Injury,340,2019-06-05 14:44:23,Roadside emergency
+-10.150037820212958,35.22806804856619,Snake bite,Serious Injury,313,2019-06-10 00:04:23,Road accident
+-14.183848746142514,34.30030729633569,Chemical burn,Fatalities,53,2019-06-12 07:14:41,Hit and run
+-9.786586041336744,33.71001210552447,Heavy equipment accident,Serious Injury,111,2019-06-25 15:07:31,Roadside emergency
+-12.19048216194942,34.48286665684034,Drought impact,Fatalities,168,2019-06-19 20:50:16,Hit and run
+-13.007661206656884,31.795255981550117,Snake bite,Moderate Injury,1423,2019-06-03 01:15:28,Single vehicle crash
+-15.935855603549271,34.058784437485116,Animal attack,Minor Injury,773,2019-06-12 00:43:52,Roadside emergency
+-16.26604207197148,35.00058801941152,Drought impact,Fatalities,64,2019-06-23 10:22:39,Multiple vehicle accident
+-9.125208503977097,33.474604038706715,Flood damage,Minor Injury,321,2019-06-19 07:15:49,Traffic jam due to accident
+-16.66147438781105,35.43344073032612,Falling from tractor,Moderate Injury,237,2019-06-14 12:03:51,Traffic jam due to accident
+-9.61026278618413,32.99996621284303,Machinery malfunction,Moderate Injury,1385,2019-06-10 10:57:46,Road accident
+-13.766663462980006,35.17275714005996,Flood damage,Minor Injury,409,2019-06-26 00:38:38,Pedestrian hit
+-11.17618841309223,32.42189515567444,Chemical burn,Fatalities,183,2019-06-29 01:29:41,Multiple vehicle accident
+-15.449507054699149,34.35158954618775,Snake bite,Fatalities,274,2019-06-24 02:56:53,Hit and run
+-9.354543855237992,35.02855362729966,Crop fire,Moderate Injury,847,2019-06-18 18:46:52,Multiple vehicle accident
+-11.89031245087474,33.734609277169106,Pesticide poisoning,Serious Injury,116,2019-06-15 05:32:42,Hit and run
+-13.982842942485323,34.45949181012105,Snake bite,Fatalities,20,2019-06-25 17:16:38,Multiple vehicle accident
+-9.420145398679484,32.95368692443374,Animal attack,Moderate Injury,685,2019-06-23 12:04:47,Hit and run
+-10.916166228349352,34.14267744866831,Heavy equipment accident,Moderate Injury,1049,2019-06-10 02:18:51,Multiple vehicle accident
+-14.155804424588831,35.13687491745097,Pesticide poisoning,Fatalities,119,2019-06-04 18:13:30,Traffic jam due to accident
+-14.638415358149096,34.78970127898411,Animal attack,Serious Injury,338,2019-06-06 17:51:35,Roadside emergency
+-16.659119039104496,34.680067784515884,Heavy equipment accident,Fatalities,113,2019-06-06 09:03:57,Single vehicle crash
+-9.637943718153872,33.18438993890444,Falling from tractor,Fatalities,210,2019-06-26 21:53:03,Traffic jam due to accident
+-15.701169071492581,32.22650432203063,Heavy equipment accident,Serious Injury,176,2019-06-18 16:51:10,Hit and run
+-13.331120873210494,34.634655568903426,Machinery malfunction,Serious Injury,278,2019-06-28 08:27:35,Traffic jam due to accident
+-11.68523407429939,34.276520422630036,Crop fire,Serious Injury,284,2019-06-11 18:03:38,Road accident
+-12.012833798784708,33.98903989684796,Machinery malfunction,Minor Injury,450,2019-06-07 22:59:01,Pedestrian hit
+-14.911597360880846,34.47490264510368,Heavy equipment accident,Serious Injury,31,2019-06-01 12:08:37,Single vehicle crash
+-10.648299018269624,32.699920247161344,Flood damage,Fatalities,290,2019-06-09 21:48:07,Vehicle collision
+-14.962351274807402,32.82496401879552,Chemical burn,Fatalities,298,2019-06-16 11:13:02,Roadside emergency
+-12.139621437705879,34.368567851806276,Drought impact,Serious Injury,29,2019-06-22 00:56:56,Multiple vehicle accident
+-9.255261445506108,35.509846284321746,Snake bite,Moderate Injury,441,2019-06-24 15:55:27,Roadside emergency
+-9.70064929310608,32.20100243422522,Machinery malfunction,Serious Injury,119,2019-06-29 06:36:22,Multiple vehicle accident
+-11.229104178256355,35.55888575590031,Heavy equipment accident,Minor Injury,476,2019-06-16 05:16:36,Single vehicle crash
+-9.746694826213798,35.53320865232156,Snake bite,Serious Injury,17,2019-06-06 20:51:22,Road accident
+-9.688637060525686,32.10976346709674,Chemical burn,Fatalities,32,2019-06-06 08:04:39,Vehicle collision
+-14.530447652151897,33.72174691575433,Snake bite,Serious Injury,32,2019-06-08 14:34:09,Hit and run
+-11.354018245707433,35.59496896732942,Snake bite,Serious Injury,339,2019-06-24 17:57:03,Pedestrian hit
+-16.128436033331308,34.69578537136502,Drought impact,Moderate Injury,1160,2019-06-07 13:40:52,Pedestrian hit
+-12.55553909453422,34.3027207758326,Snake bite,Serious Injury,309,2019-06-13 09:25:47,Traffic jam due to accident
+-12.470451776604838,34.17492521070243,Crop fire,Moderate Injury,1367,2019-06-08 07:36:34,Hit and run
+-16.134024142916733,34.49839298151186,Flood damage,Fatalities,248,2019-06-17 21:47:11,Traffic jam due to accident
+-10.422722689546896,33.89651665001511,Falling from tractor,Minor Injury,977,2019-06-06 02:34:26,Roadside emergency
+-16.478133629361565,34.566346080269874,Heavy equipment accident,Serious Injury,360,2019-06-27 18:29:28,Vehicle collision
+-12.70937096657308,35.61991961463881,Heavy equipment accident,Moderate Injury,509,2019-06-14 04:26:30,Road accident
+-16.325775504622406,34.62261556038177,Pesticide poisoning,Moderate Injury,240,2019-06-17 05:58:15,Hit and run
+-13.201955889403084,33.08098241542375,Crop fire,Minor Injury,1052,2019-06-18 12:34:12,Traffic jam due to accident
+-15.549426357906244,31.766966536738362,Pesticide poisoning,Fatalities,260,2019-06-26 06:44:22,Single vehicle crash
+-13.421205780040616,34.499177894876574,Falling from tractor,Moderate Injury,1104,2019-06-14 18:25:41,Pedestrian hit
+-9.48882141084,33.709950327278285,Pesticide poisoning,Moderate Injury,1375,2019-06-18 23:52:48,Road accident
+-11.009781362000014,32.92697668767079,Machinery malfunction,Moderate Injury,682,2019-06-10 17:42:17,Single vehicle crash
+-12.424866229709178,35.01734791532056,Falling from tractor,Moderate Injury,738,2019-06-20 22:59:24,Multiple vehicle accident
+-15.35021513809069,34.22472511801474,Drought impact,Minor Injury,1068,2019-06-20 20:02:40,Pedestrian hit
+-8.919075526394295,33.74171914454146,Snake bite,Fatalities,75,2019-06-25 12:15:59,Traffic jam due to accident
+-12.031970887662268,31.780155091244517,Pesticide poisoning,Fatalities,189,2019-06-27 22:51:43,Vehicle collision
+-10.073714823717205,32.723353450762815,Falling from tractor,Moderate Injury,690,2019-06-08 20:24:41,Multiple vehicle accident
+-10.380281971261573,34.21567714816213,Flood damage,Serious Injury,210,2019-06-10 15:01:18,Single vehicle crash
+-11.473659795664826,34.73513511205724,Drought impact,Moderate Injury,427,2019-06-19 12:55:56,Vehicle collision
+-11.744003201342828,31.806614602254584,Pesticide poisoning,Serious Injury,48,2019-06-27 10:24:16,Pedestrian hit
+-13.058226045201014,34.27861933364807,Heavy equipment accident,Moderate Injury,1348,2019-06-14 03:42:57,Hit and run
+-9.715288225185628,34.91549022846499,Flood damage,Moderate Injury,459,2019-06-06 05:12:36,Single vehicle crash
+-10.646492048063358,33.69457233704497,Falling from tractor,Serious Injury,136,2019-06-16 11:40:28,Roadside emergency
+-15.768596235728577,34.75916733530234,Drought impact,Serious Injury,151,2019-06-07 04:25:23,Traffic jam due to accident
+-13.819723901090935,34.6471206018141,Chemical burn,Moderate Injury,1171,2019-06-28 03:52:41,Pedestrian hit
+-9.217714978595765,34.46812925091797,Machinery malfunction,Minor Injury,306,2019-06-10 03:45:08,Traffic jam due to accident
+-12.873487594119984,34.4422080432209,Machinery malfunction,Fatalities,73,2019-06-12 19:45:16,Hit and run
+-10.888531706420373,31.822445620753452,Drought impact,Minor Injury,314,2019-06-17 00:54:19,Vehicle collision
+-11.518509494332662,32.14852508174953,Snake bite,Serious Injury,220,2019-06-01 02:17:59,Pedestrian hit
+-9.661442638991707,34.475470490278994,Snake bite,Serious Injury,47,2019-06-02 16:50:44,Single vehicle crash
+-16.03986479567707,33.79936172394189,Drought impact,Fatalities,103,2019-06-18 03:44:01,Traffic jam due to accident
+-13.448827417760752,33.68035486807049,Snake bite,Minor Injury,530,2019-06-06 01:28:09,Hit and run
+-10.50973017524414,35.24839847149285,Chemical burn,Moderate Injury,811,2019-06-12 22:12:43,Traffic jam due to accident
+-13.688420597443244,33.11293780534996,Crop fire,Moderate Injury,1131,2019-06-26 02:35:18,Multiple vehicle accident
+-14.369312736351764,32.91467079352055,Machinery malfunction,Moderate Injury,1340,2019-06-27 06:54:52,Multiple vehicle accident
+-16.49817776364741,31.763888816800876,Crop fire,Fatalities,204,2019-06-05 08:15:55,Road accident
+-12.529964222395304,34.28123340183923,Animal attack,Fatalities,31,2019-06-14 03:18:27,Vehicle collision
+-14.74428687733984,34.42528780170288,Drought impact,Minor Injury,601,2019-06-04 08:37:45,Road accident
+-14.341694988319784,33.013080450598345,Flood damage,Minor Injury,781,2019-06-11 22:15:32,Multiple vehicle accident
+-12.655712904106316,35.41069671387322,Crop fire,Moderate Injury,1457,2019-06-21 05:08:45,Hit and run
+-10.440885301081563,32.0474291272616,Falling from tractor,Fatalities,231,2019-06-14 17:07:34,Road accident
+-16.248312307611506,35.56338849797808,Pesticide poisoning,Serious Injury,82,2019-06-04 01:11:35,Road accident
+-11.097376644089058,32.570853100380695,Heavy equipment accident,Fatalities,70,2019-06-09 09:10:34,Vehicle collision
+-14.8672339712028,34.29625879829993,Crop fire,Moderate Injury,1091,2019-06-08 04:25:15,Single vehicle crash
+-9.785046111177369,32.62258487718788,Heavy equipment accident,Minor Injury,364,2019-06-08 08:10:59,Hit and run
+-12.253400492891142,34.156736134046646,Heavy equipment accident,Serious Injury,286,2019-06-27 11:03:21,Roadside emergency
+-14.88667164971489,33.620502013849595,Pesticide poisoning,Moderate Injury,109,2019-06-19 23:18:28,Road accident
+-16.427479142387618,35.17209899675227,Chemical burn,Moderate Injury,1121,2019-06-21 00:24:58,Road accident
+-10.620346323398207,32.87373705039345,Animal attack,Moderate Injury,877,2019-06-10 11:39:01,Roadside emergency
+-15.37367590227042,33.41507499127038,Flood damage,Minor Injury,1391,2019-06-27 15:29:11,Roadside emergency
+-15.496587826872043,32.10663369764681,Flood damage,Serious Injury,21,2019-06-23 05:54:40,Hit and run
+-13.258859318162102,35.61752244937843,Heavy equipment accident,Fatalities,51,2019-06-08 03:45:20,Pedestrian hit
+-12.103261226945888,35.396837697548364,Pesticide poisoning,Minor Injury,670,2019-06-17 04:21:13,Vehicle collision
+-14.55340375614771,32.840334648567556,Pesticide poisoning,Minor Injury,1465,2019-06-06 10:36:45,Multiple vehicle accident
+-13.927943702936325,33.67842171491225,Chemical burn,Minor Injury,1375,2019-06-10 11:11:44,Vehicle collision
+-14.821140088208274,32.99138674427968,Flood damage,Fatalities,189,2019-06-13 13:47:13,Vehicle collision
+-14.216498203646324,32.379845132303664,Pesticide poisoning,Moderate Injury,663,2019-06-24 07:50:53,Hit and run
+-12.696183596618424,34.737967871028985,Falling from tractor,Minor Injury,1228,2019-06-28 03:26:23,Traffic jam due to accident
+-13.735910370111569,35.213133553676236,Crop fire,Fatalities,152,2019-06-08 17:07:45,Roadside emergency
+-13.942515196855911,32.127081172789254,Animal attack,Fatalities,259,2019-06-06 20:20:41,Hit and run

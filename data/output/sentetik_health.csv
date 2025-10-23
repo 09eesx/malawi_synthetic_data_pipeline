@@ -1,0 +1,649 @@
+Year,Area,Measure,Sector,Value
+2010,Malawi,Hospitals,Government,12
+2010,Malawi,Hospitals,Private,2
+2010,Malawi,Hospitals,Total,14
+2010,Malawi,Beds,Government,1583
+2010,Malawi,Beds,Private,651
+2010,Malawi,Beds,Total,2234
+2010,Malawi,Clinics and Health Centres,Government,260
+2010,Malawi,Clinics and Health Centres,Private,91
+2010,Malawi,Clinics and Health Centres,Total,351
+2010,Lilongwe,Hospitals,Government,7
+2010,Lilongwe,Hospitals,Private,4
+2010,Lilongwe,Hospitals,Total,11
+2010,Lilongwe,Beds,Government,1227
+2010,Lilongwe,Beds,Private,288
+2010,Lilongwe,Beds,Total,1515
+2010,Lilongwe,Clinics and Health Centres,Government,248
+2010,Lilongwe,Clinics and Health Centres,Private,90
+2010,Lilongwe,Clinics and Health Centres,Total,338
+2010,Blantyre,Hospitals,Government,11
+2010,Blantyre,Hospitals,Private,3
+2010,Blantyre,Hospitals,Total,14
+2010,Blantyre,Beds,Government,1319
+2010,Blantyre,Beds,Private,456
+2010,Blantyre,Beds,Total,1775
+2010,Blantyre,Clinics and Health Centres,Government,259
+2010,Blantyre,Clinics and Health Centres,Private,86
+2010,Blantyre,Clinics and Health Centres,Total,345
+2010,Mzuzu,Hospitals,Government,7
+2010,Mzuzu,Hospitals,Private,8
+2010,Mzuzu,Hospitals,Total,15
+2010,Mzuzu,Beds,Government,1197
+2010,Mzuzu,Beds,Private,262
+2010,Mzuzu,Beds,Total,1459
+2010,Mzuzu,Clinics and Health Centres,Government,239
+2010,Mzuzu,Clinics and Health Centres,Private,96
+2010,Mzuzu,Clinics and Health Centres,Total,335
+2010,Zomba,Hospitals,Government,10
+2010,Zomba,Hospitals,Private,5
+2010,Zomba,Hospitals,Total,15
+2010,Zomba,Beds,Government,1674
+2010,Zomba,Beds,Private,633
+2010,Zomba,Beds,Total,2307
+2010,Zomba,Clinics and Health Centres,Government,261
+2010,Zomba,Clinics and Health Centres,Private,82
+2010,Zomba,Clinics and Health Centres,Total,343
+2010,Karonga,Hospitals,Government,11
+2010,Karonga,Hospitals,Private,2
+2010,Karonga,Hospitals,Total,13
+2010,Karonga,Beds,Government,1743
+2010,Karonga,Beds,Private,703
+2010,Karonga,Beds,Total,2446
+2010,Karonga,Clinics and Health Centres,Government,272
+2010,Karonga,Clinics and Health Centres,Private,86
+2010,Karonga,Clinics and Health Centres,Total,358
+2011,Malawi,Hospitals,Government,14
+2011,Malawi,Hospitals,Private,4
+2011,Malawi,Hospitals,Total,18
+2011,Malawi,Beds,Government,1124
+2011,Malawi,Beds,Private,681
+2011,Malawi,Beds,Total,1805
+2011,Malawi,Clinics and Health Centres,Government,260
+2011,Malawi,Clinics and Health Centres,Private,97
+2011,Malawi,Clinics and Health Centres,Total,357
+2011,Lilongwe,Hospitals,Government,14
+2011,Lilongwe,Hospitals,Private,2
+2011,Lilongwe,Hospitals,Total,16
+2011,Lilongwe,Beds,Government,1824
+2011,Lilongwe,Beds,Private,574
+2011,Lilongwe,Beds,Total,2398
+2011,Lilongwe,Clinics and Health Centres,Government,275
+2011,Lilongwe,Clinics and Health Centres,Private,120
+2011,Lilongwe,Clinics and Health Centres,Total,395
+2011,Blantyre,Hospitals,Government,9
+2011,Blantyre,Hospitals,Private,4
+2011,Blantyre,Hospitals,Total,13
+2011,Blantyre,Beds,Government,753
+2011,Blantyre,Beds,Private,576
+2011,Blantyre,Beds,Total,1329
+2011,Blantyre,Clinics and Health Centres,Government,246
+2011,Blantyre,Clinics and Health Centres,Private,100
+2011,Blantyre,Clinics and Health Centres,Total,346
+2011,Mzuzu,Hospitals,Government,9
+2011,Mzuzu,Hospitals,Private,7
+2011,Mzuzu,Hospitals,Total,16
+2011,Mzuzu,Beds,Government,1580
+2011,Mzuzu,Beds,Private,460
+2011,Mzuzu,Beds,Total,2040
+2011,Mzuzu,Clinics and Health Centres,Government,260
+2011,Mzuzu,Clinics and Health Centres,Private,98
+2011,Mzuzu,Clinics and Health Centres,Total,358
+2011,Zomba,Hospitals,Government,8
+2011,Zomba,Hospitals,Private,7
+2011,Zomba,Hospitals,Total,15
+2011,Zomba,Beds,Government,1971
+2011,Zomba,Beds,Private,733
+2011,Zomba,Beds,Total,2704
+2011,Zomba,Clinics and Health Centres,Government,262
+2011,Zomba,Clinics and Health Centres,Private,116
+2011,Zomba,Clinics and Health Centres,Total,378
+2011,Karonga,Hospitals,Government,8
+2011,Karonga,Hospitals,Private,2
+2011,Karonga,Hospitals,Total,10
+2011,Karonga,Beds,Government,1084
+2011,Karonga,Beds,Private,535
+2011,Karonga,Beds,Total,1619
+2011,Karonga,Clinics and Health Centres,Government,267
+2011,Karonga,Clinics and Health Centres,Private,111
+2011,Karonga,Clinics and Health Centres,Total,378
+2012,Malawi,Hospitals,Government,18
+2012,Malawi,Hospitals,Private,6
+2012,Malawi,Hospitals,Total,24
+2012,Malawi,Beds,Government,1668
+2012,Malawi,Beds,Private,746
+2012,Malawi,Beds,Total,2414
+2012,Malawi,Clinics and Health Centres,Government,271
+2012,Malawi,Clinics and Health Centres,Private,94
+2012,Malawi,Clinics and Health Centres,Total,365
+2012,Lilongwe,Hospitals,Government,17
+2012,Lilongwe,Hospitals,Private,8
+2012,Lilongwe,Hospitals,Total,25
+2012,Lilongwe,Beds,Government,1687
+2012,Lilongwe,Beds,Private,442
+2012,Lilongwe,Beds,Total,2129
+2012,Lilongwe,Clinics and Health Centres,Government,272
+2012,Lilongwe,Clinics and Health Centres,Private,114
+2012,Lilongwe,Clinics and Health Centres,Total,386
+2012,Blantyre,Hospitals,Government,14
+2012,Blantyre,Hospitals,Private,7
+2012,Blantyre,Hospitals,Total,21
+2012,Blantyre,Beds,Government,1189
+2012,Blantyre,Beds,Private,434
+2012,Blantyre,Beds,Total,1623
+2012,Blantyre,Clinics and Health Centres,Government,265
+2012,Blantyre,Clinics and Health Centres,Private,114
+2012,Blantyre,Clinics and Health Centres,Total,379
+2012,Mzuzu,Hospitals,Government,12
+2012,Mzuzu,Hospitals,Private,5
+2012,Mzuzu,Hospitals,Total,17
+2012,Mzuzu,Beds,Government,1278
+2012,Mzuzu,Beds,Private,622
+2012,Mzuzu,Beds,Total,1900
+2012,Mzuzu,Clinics and Health Centres,Government,296
+2012,Mzuzu,Clinics and Health Centres,Private,108
+2012,Mzuzu,Clinics and Health Centres,Total,404
+2012,Zomba,Hospitals,Government,10
+2012,Zomba,Hospitals,Private,8
+2012,Zomba,Hospitals,Total,18
+2012,Zomba,Beds,Government,1617
+2012,Zomba,Beds,Private,378
+2012,Zomba,Beds,Total,1995
+2012,Zomba,Clinics and Health Centres,Government,291
+2012,Zomba,Clinics and Health Centres,Private,116
+2012,Zomba,Clinics and Health Centres,Total,407
+2012,Karonga,Hospitals,Government,11
+2012,Karonga,Hospitals,Private,13
+2012,Karonga,Hospitals,Total,24
+2012,Karonga,Beds,Government,1649
+2012,Karonga,Beds,Private,421
+2012,Karonga,Beds,Total,2070
+2012,Karonga,Clinics and Health Centres,Government,272
+2012,Karonga,Clinics and Health Centres,Private,113
+2012,Karonga,Clinics and Health Centres,Total,385
+2013,Malawi,Hospitals,Government,12
+2013,Malawi,Hospitals,Private,5
+2013,Malawi,Hospitals,Total,17
+2013,Malawi,Beds,Government,1663
+2013,Malawi,Beds,Private,477
+2013,Malawi,Beds,Total,2140
+2013,Malawi,Clinics and Health Centres,Government,282
+2013,Malawi,Clinics and Health Centres,Private,115
+2013,Malawi,Clinics and Health Centres,Total,397
+2013,Lilongwe,Hospitals,Government,16
+2013,Lilongwe,Hospitals,Private,3
+2013,Lilongwe,Hospitals,Total,19
+2013,Lilongwe,Beds,Government,1418
+2013,Lilongwe,Beds,Private,824
+2013,Lilongwe,Beds,Total,2242
+2013,Lilongwe,Clinics and Health Centres,Government,263
+2013,Lilongwe,Clinics and Health Centres,Private,107
+2013,Lilongwe,Clinics and Health Centres,Total,370
+2013,Blantyre,Hospitals,Government,15
+2013,Blantyre,Hospitals,Private,8
+2013,Blantyre,Hospitals,Total,23
+2013,Blantyre,Beds,Government,1578
+2013,Blantyre,Beds,Private,855
+2013,Blantyre,Beds,Total,2433
+2013,Blantyre,Clinics and Health Centres,Government,256
+2013,Blantyre,Clinics and Health Centres,Private,114
+2013,Blantyre,Clinics and Health Centres,Total,370
+2013,Mzuzu,Hospitals,Government,12
+2013,Mzuzu,Hospitals,Private,4
+2013,Mzuzu,Hospitals,Total,16
+2013,Mzuzu,Beds,Government,1667
+2013,Mzuzu,Beds,Private,927
+2013,Mzuzu,Beds,Total,2594
+2013,Mzuzu,Clinics and Health Centres,Government,299
+2013,Mzuzu,Clinics and Health Centres,Private,104
+2013,Mzuzu,Clinics and Health Centres,Total,403
+2013,Zomba,Hospitals,Government,14
+2013,Zomba,Hospitals,Private,11
+2013,Zomba,Hospitals,Total,25
+2013,Zomba,Beds,Government,1734
+2013,Zomba,Beds,Private,481
+2013,Zomba,Beds,Total,2215
+2013,Zomba,Clinics and Health Centres,Government,251
+2013,Zomba,Clinics and Health Centres,Private,127
+2013,Zomba,Clinics and Health Centres,Total,378
+2013,Karonga,Hospitals,Government,16
+2013,Karonga,Hospitals,Private,8
+2013,Karonga,Hospitals,Total,24
+2013,Karonga,Beds,Government,1874
+2013,Karonga,Beds,Private,666
+2013,Karonga,Beds,Total,2540
+2013,Karonga,Clinics and Health Centres,Government,274
+2013,Karonga,Clinics and Health Centres,Private,110
+2013,Karonga,Clinics and Health Centres,Total,384
+2014,Malawi,Hospitals,Government,18
+2014,Malawi,Hospitals,Private,9
+2014,Malawi,Hospitals,Total,27
+2014,Malawi,Beds,Government,1797
+2014,Malawi,Beds,Private,580
+2014,Malawi,Beds,Total,2377
+2014,Malawi,Clinics and Health Centres,Government,326
+2014,Malawi,Clinics and Health Centres,Private,124
+2014,Malawi,Clinics and Health Centres,Total,450
+2014,Lilongwe,Hospitals,Government,12
+2014,Lilongwe,Hospitals,Private,8
+2014,Lilongwe,Hospitals,Total,20
+2014,Lilongwe,Beds,Government,1072
+2014,Lilongwe,Beds,Private,865
+2014,Lilongwe,Beds,Total,1937
+2014,Lilongwe,Clinics and Health Centres,Government,312
+2014,Lilongwe,Clinics and Health Centres,Private,106
+2014,Lilongwe,Clinics and Health Centres,Total,418
+2014,Blantyre,Hospitals,Government,17
+2014,Blantyre,Hospitals,Private,4
+2014,Blantyre,Hospitals,Total,21
+2014,Blantyre,Beds,Government,1558
+2014,Blantyre,Beds,Private,634
+2014,Blantyre,Beds,Total,2192
+2014,Blantyre,Clinics and Health Centres,Government,264
+2014,Blantyre,Clinics and Health Centres,Private,116
+2014,Blantyre,Clinics and Health Centres,Total,380
+2014,Mzuzu,Hospitals,Government,13
+2014,Mzuzu,Hospitals,Private,8
+2014,Mzuzu,Hospitals,Total,21
+2014,Mzuzu,Beds,Government,1495
+2014,Mzuzu,Beds,Private,592
+2014,Mzuzu,Beds,Total,2087
+2014,Mzuzu,Clinics and Health Centres,Government,268
+2014,Mzuzu,Clinics and Health Centres,Private,124
+2014,Mzuzu,Clinics and Health Centres,Total,392
+2014,Zomba,Hospitals,Government,13
+2014,Zomba,Hospitals,Private,5
+2014,Zomba,Hospitals,Total,18
+2014,Zomba,Beds,Government,1720
+2014,Zomba,Beds,Private,747
+2014,Zomba,Beds,Total,2467
+2014,Zomba,Clinics and Health Centres,Government,292
+2014,Zomba,Clinics and Health Centres,Private,121
+2014,Zomba,Clinics and Health Centres,Total,413
+2014,Karonga,Hospitals,Government,16
+2014,Karonga,Hospitals,Private,6
+2014,Karonga,Hospitals,Total,22
+2014,Karonga,Beds,Government,2356
+2014,Karonga,Beds,Private,478
+2014,Karonga,Beds,Total,2834
+2014,Karonga,Clinics and Health Centres,Government,279
+2014,Karonga,Clinics and Health Centres,Private,119
+2014,Karonga,Clinics and Health Centres,Total,398
+2015,Malawi,Hospitals,Government,16
+2015,Malawi,Hospitals,Private,13
+2015,Malawi,Hospitals,Total,29
+2015,Malawi,Beds,Government,1353
+2015,Malawi,Beds,Private,899
+2015,Malawi,Beds,Total,2252
+2015,Malawi,Clinics and Health Centres,Government,330
+2015,Malawi,Clinics and Health Centres,Private,101
+2015,Malawi,Clinics and Health Centres,Total,431
+2015,Lilongwe,Hospitals,Government,14
+2015,Lilongwe,Hospitals,Private,10
+2015,Lilongwe,Hospitals,Total,24
+2015,Lilongwe,Beds,Government,1717
+2015,Lilongwe,Beds,Private,616
+2015,Lilongwe,Beds,Total,2333
+2015,Lilongwe,Clinics and Health Centres,Government,320
+2015,Lilongwe,Clinics and Health Centres,Private,127
+2015,Lilongwe,Clinics and Health Centres,Total,447
+2015,Blantyre,Hospitals,Government,12
+2015,Blantyre,Hospitals,Private,8
+2015,Blantyre,Hospitals,Total,20
+2015,Blantyre,Beds,Government,1849
+2015,Blantyre,Beds,Private,512
+2015,Blantyre,Beds,Total,2361
+2015,Blantyre,Clinics and Health Centres,Government,301
+2015,Blantyre,Clinics and Health Centres,Private,126
+2015,Blantyre,Clinics and Health Centres,Total,427
+2015,Mzuzu,Hospitals,Government,15
+2015,Mzuzu,Hospitals,Private,5
+2015,Mzuzu,Hospitals,Total,20
+2015,Mzuzu,Beds,Government,1943
+2015,Mzuzu,Beds,Private,830
+2015,Mzuzu,Beds,Total,2773
+2015,Mzuzu,Clinics and Health Centres,Government,310
+2015,Mzuzu,Clinics and Health Centres,Private,112
+2015,Mzuzu,Clinics and Health Centres,Total,422
+2015,Zomba,Hospitals,Government,13
+2015,Zomba,Hospitals,Private,9
+2015,Zomba,Hospitals,Total,22
+2015,Zomba,Beds,Government,1238
+2015,Zomba,Beds,Private,616
+2015,Zomba,Beds,Total,1854
+2015,Zomba,Clinics and Health Centres,Government,298
+2015,Zomba,Clinics and Health Centres,Private,125
+2015,Zomba,Clinics and Health Centres,Total,423
+2015,Karonga,Hospitals,Government,16
+2015,Karonga,Hospitals,Private,4
+2015,Karonga,Hospitals,Total,20
+2015,Karonga,Beds,Government,1419
+2015,Karonga,Beds,Private,698
+2015,Karonga,Beds,Total,2117
+2015,Karonga,Clinics and Health Centres,Government,293
+2015,Karonga,Clinics and Health Centres,Private,124
+2015,Karonga,Clinics and Health Centres,Total,417
+2016,Malawi,Hospitals,Government,12
+2016,Malawi,Hospitals,Private,5
+2016,Malawi,Hospitals,Total,17
+2016,Malawi,Beds,Government,1767
+2016,Malawi,Beds,Private,494
+2016,Malawi,Beds,Total,2261
+2016,Malawi,Clinics and Health Centres,Government,295
+2016,Malawi,Clinics and Health Centres,Private,130
+2016,Malawi,Clinics and Health Centres,Total,425
+2016,Lilongwe,Hospitals,Government,17
+2016,Lilongwe,Hospitals,Private,9
+2016,Lilongwe,Hospitals,Total,26
+2016,Lilongwe,Beds,Government,1635
+2016,Lilongwe,Beds,Private,465
+2016,Lilongwe,Beds,Total,2100
+2016,Lilongwe,Clinics and Health Centres,Government,309
+2016,Lilongwe,Clinics and Health Centres,Private,126
+2016,Lilongwe,Clinics and Health Centres,Total,435
+2016,Blantyre,Hospitals,Government,18
+2016,Blantyre,Hospitals,Private,8
+2016,Blantyre,Hospitals,Total,26
+2016,Blantyre,Beds,Government,2257
+2016,Blantyre,Beds,Private,281
+2016,Blantyre,Beds,Total,2538
+2016,Blantyre,Clinics and Health Centres,Government,297
+2016,Blantyre,Clinics and Health Centres,Private,126
+2016,Blantyre,Clinics and Health Centres,Total,423
+2016,Mzuzu,Hospitals,Government,14
+2016,Mzuzu,Hospitals,Private,9
+2016,Mzuzu,Hospitals,Total,23
+2016,Mzuzu,Beds,Government,1823
+2016,Mzuzu,Beds,Private,520
+2016,Mzuzu,Beds,Total,2343
+2016,Mzuzu,Clinics and Health Centres,Government,314
+2016,Mzuzu,Clinics and Health Centres,Private,128
+2016,Mzuzu,Clinics and Health Centres,Total,442
+2016,Zomba,Hospitals,Government,14
+2016,Zomba,Hospitals,Private,9
+2016,Zomba,Hospitals,Total,23
+2016,Zomba,Beds,Government,1662
+2016,Zomba,Beds,Private,556
+2016,Zomba,Beds,Total,2218
+2016,Zomba,Clinics and Health Centres,Government,292
+2016,Zomba,Clinics and Health Centres,Private,123
+2016,Zomba,Clinics and Health Centres,Total,415
+2016,Karonga,Hospitals,Government,21
+2016,Karonga,Hospitals,Private,10
+2016,Karonga,Hospitals,Total,31
+2016,Karonga,Beds,Government,1582
+2016,Karonga,Beds,Private,570
+2016,Karonga,Beds,Total,2152
+2016,Karonga,Clinics and Health Centres,Government,318
+2016,Karonga,Clinics and Health Centres,Private,132
+2016,Karonga,Clinics and Health Centres,Total,450
+2017,Malawi,Hospitals,Government,15
+2017,Malawi,Hospitals,Private,7
+2017,Malawi,Hospitals,Total,22
+2017,Malawi,Beds,Government,1927
+2017,Malawi,Beds,Private,539
+2017,Malawi,Beds,Total,2466
+2017,Malawi,Clinics and Health Centres,Government,310
+2017,Malawi,Clinics and Health Centres,Private,123
+2017,Malawi,Clinics and Health Centres,Total,433
+2017,Lilongwe,Hospitals,Government,17
+2017,Lilongwe,Hospitals,Private,5
+2017,Lilongwe,Hospitals,Total,22
+2017,Lilongwe,Beds,Government,1669
+2017,Lilongwe,Beds,Private,789
+2017,Lilongwe,Beds,Total,2458
+2017,Lilongwe,Clinics and Health Centres,Government,328
+2017,Lilongwe,Clinics and Health Centres,Private,138
+2017,Lilongwe,Clinics and Health Centres,Total,466
+2017,Blantyre,Hospitals,Government,16
+2017,Blantyre,Hospitals,Private,10
+2017,Blantyre,Hospitals,Total,26
+2017,Blantyre,Beds,Government,1996
+2017,Blantyre,Beds,Private,912
+2017,Blantyre,Beds,Total,2908
+2017,Blantyre,Clinics and Health Centres,Government,338
+2017,Blantyre,Clinics and Health Centres,Private,144
+2017,Blantyre,Clinics and Health Centres,Total,482
+2017,Mzuzu,Hospitals,Government,13
+2017,Mzuzu,Hospitals,Private,11
+2017,Mzuzu,Hospitals,Total,24
+2017,Mzuzu,Beds,Government,1288
+2017,Mzuzu,Beds,Private,622
+2017,Mzuzu,Beds,Total,1910
+2017,Mzuzu,Clinics and Health Centres,Government,332
+2017,Mzuzu,Clinics and Health Centres,Private,127
+2017,Mzuzu,Clinics and Health Centres,Total,459
+2017,Zomba,Hospitals,Government,16
+2017,Zomba,Hospitals,Private,9
+2017,Zomba,Hospitals,Total,25
+2017,Zomba,Beds,Government,2002
+2017,Zomba,Beds,Private,862
+2017,Zomba,Beds,Total,2864
+2017,Zomba,Clinics and Health Centres,Government,321
+2017,Zomba,Clinics and Health Centres,Private,144
+2017,Zomba,Clinics and Health Centres,Total,465
+2017,Karonga,Hospitals,Government,15
+2017,Karonga,Hospitals,Private,8
+2017,Karonga,Hospitals,Total,23
+2017,Karonga,Beds,Government,2236
+2017,Karonga,Beds,Private,608
+2017,Karonga,Beds,Total,2844
+2017,Karonga,Clinics and Health Centres,Government,301
+2017,Karonga,Clinics and Health Centres,Private,142
+2017,Karonga,Clinics and Health Centres,Total,443
+2018,Malawi,Hospitals,Government,19
+2018,Malawi,Hospitals,Private,9
+2018,Malawi,Hospitals,Total,28
+2018,Malawi,Beds,Government,1632
+2018,Malawi,Beds,Private,351
+2018,Malawi,Beds,Total,1983
+2018,Malawi,Clinics and Health Centres,Government,364
+2018,Malawi,Clinics and Health Centres,Private,142
+2018,Malawi,Clinics and Health Centres,Total,506
+2018,Lilongwe,Hospitals,Government,19
+2018,Lilongwe,Hospitals,Private,13
+2018,Lilongwe,Hospitals,Total,32
+2018,Lilongwe,Beds,Government,1955
+2018,Lilongwe,Beds,Private,715
+2018,Lilongwe,Beds,Total,2670
+2018,Lilongwe,Clinics and Health Centres,Government,358
+2018,Lilongwe,Clinics and Health Centres,Private,151
+2018,Lilongwe,Clinics and Health Centres,Total,509
+2018,Blantyre,Hospitals,Government,23
+2018,Blantyre,Hospitals,Private,7
+2018,Blantyre,Hospitals,Total,30
+2018,Blantyre,Beds,Government,2221
+2018,Blantyre,Beds,Private,612
+2018,Blantyre,Beds,Total,2833
+2018,Blantyre,Clinics and Health Centres,Government,325
+2018,Blantyre,Clinics and Health Centres,Private,157
+2018,Blantyre,Clinics and Health Centres,Total,482
+2018,Mzuzu,Hospitals,Government,16
+2018,Mzuzu,Hospitals,Private,7
+2018,Mzuzu,Hospitals,Total,23
+2018,Mzuzu,Beds,Government,1898
+2018,Mzuzu,Beds,Private,502
+2018,Mzuzu,Beds,Total,2400
+2018,Mzuzu,Clinics and Health Centres,Government,326
+2018,Mzuzu,Clinics and Health Centres,Private,136
+2018,Mzuzu,Clinics and Health Centres,Total,462
+2018,Zomba,Hospitals,Government,19
+2018,Zomba,Hospitals,Private,9
+2018,Zomba,Hospitals,Total,28
+2018,Zomba,Beds,Government,1900
+2018,Zomba,Beds,Private,723
+2018,Zomba,Beds,Total,2623
+2018,Zomba,Clinics and Health Centres,Government,334
+2018,Zomba,Clinics and Health Centres,Private,148
+2018,Zomba,Clinics and Health Centres,Total,482
+2018,Karonga,Hospitals,Government,23
+2018,Karonga,Hospitals,Private,6
+2018,Karonga,Hospitals,Total,29
+2018,Karonga,Beds,Government,1686
+2018,Karonga,Beds,Private,715
+2018,Karonga,Beds,Total,2401
+2018,Karonga,Clinics and Health Centres,Government,344
+2018,Karonga,Clinics and Health Centres,Private,141
+2018,Karonga,Clinics and Health Centres,Total,485
+2019,Malawi,Hospitals,Government,18
+2019,Malawi,Hospitals,Private,9
+2019,Malawi,Hospitals,Total,27
+2019,Malawi,Beds,Government,1616
+2019,Malawi,Beds,Private,987
+2019,Malawi,Beds,Total,2603
+2019,Malawi,Clinics and Health Centres,Government,350
+2019,Malawi,Clinics and Health Centres,Private,136
+2019,Malawi,Clinics and Health Centres,Total,486
+2019,Lilongwe,Hospitals,Government,22
+2019,Lilongwe,Hospitals,Private,7
+2019,Lilongwe,Hospitals,Total,29
+2019,Lilongwe,Beds,Government,2163
+2019,Lilongwe,Beds,Private,791
+2019,Lilongwe,Beds,Total,2954
+2019,Lilongwe,Clinics and Health Centres,Government,357
+2019,Lilongwe,Clinics and Health Centres,Private,150
+2019,Lilongwe,Clinics and Health Centres,Total,507
+2019,Blantyre,Hospitals,Government,17
+2019,Blantyre,Hospitals,Private,5
+2019,Blantyre,Hospitals,Total,22
+2019,Blantyre,Beds,Government,2047
+2019,Blantyre,Beds,Private,537
+2019,Blantyre,Beds,Total,2584
+2019,Blantyre,Clinics and Health Centres,Government,336
+2019,Blantyre,Clinics and Health Centres,Private,155
+2019,Blantyre,Clinics and Health Centres,Total,491
+2019,Mzuzu,Hospitals,Government,16
+2019,Mzuzu,Hospitals,Private,10
+2019,Mzuzu,Hospitals,Total,26
+2019,Mzuzu,Beds,Government,2241
+2019,Mzuzu,Beds,Private,720
+2019,Mzuzu,Beds,Total,2961
+2019,Mzuzu,Clinics and Health Centres,Government,355
+2019,Mzuzu,Clinics and Health Centres,Private,146
+2019,Mzuzu,Clinics and Health Centres,Total,501
+2019,Zomba,Hospitals,Government,16
+2019,Zomba,Hospitals,Private,9
+2019,Zomba,Hospitals,Total,25
+2019,Zomba,Beds,Government,1461
+2019,Zomba,Beds,Private,807
+2019,Zomba,Beds,Total,2268
+2019,Zomba,Clinics and Health Centres,Government,342
+2019,Zomba,Clinics and Health Centres,Private,156
+2019,Zomba,Clinics and Health Centres,Total,498
+2019,Karonga,Hospitals,Government,20
+2019,Karonga,Hospitals,Private,10
+2019,Karonga,Hospitals,Total,30
+2019,Karonga,Beds,Government,2105
+2019,Karonga,Beds,Private,616
+2019,Karonga,Beds,Total,2721
+2019,Karonga,Clinics and Health Centres,Government,313
+2019,Karonga,Clinics and Health Centres,Private,137
+2019,Karonga,Clinics and Health Centres,Total,450
+2020,Malawi,Hospitals,Government,18
+2020,Malawi,Hospitals,Private,12
+2020,Malawi,Hospitals,Total,30
+2020,Malawi,Beds,Government,1827
+2020,Malawi,Beds,Private,768
+2020,Malawi,Beds,Total,2595
+2020,Malawi,Clinics and Health Centres,Government,350
+2020,Malawi,Clinics and Health Centres,Private,145
+2020,Malawi,Clinics and Health Centres,Total,495
+2020,Lilongwe,Hospitals,Government,15
+2020,Lilongwe,Hospitals,Private,13
+2020,Lilongwe,Hospitals,Total,28
+2020,Lilongwe,Beds,Government,1471
+2020,Lilongwe,Beds,Private,921
+2020,Lilongwe,Beds,Total,2392
+2020,Lilongwe,Clinics and Health Centres,Government,325
+2020,Lilongwe,Clinics and Health Centres,Private,148
+2020,Lilongwe,Clinics and Health Centres,Total,473
+2020,Blantyre,Hospitals,Government,20
+2020,Blantyre,Hospitals,Private,12
+2020,Blantyre,Hospitals,Total,32
+2020,Blantyre,Beds,Government,2245
+2020,Blantyre,Beds,Private,770
+2020,Blantyre,Beds,Total,3015
+2020,Blantyre,Clinics and Health Centres,Government,340
+2020,Blantyre,Clinics and Health Centres,Private,149
+2020,Blantyre,Clinics and Health Centres,Total,489
+2020,Mzuzu,Hospitals,Government,24
+2020,Mzuzu,Hospitals,Private,8
+2020,Mzuzu,Hospitals,Total,32
+2020,Mzuzu,Beds,Government,1687
+2020,Mzuzu,Beds,Private,941
+2020,Mzuzu,Beds,Total,2628
+2020,Mzuzu,Clinics and Health Centres,Government,361
+2020,Mzuzu,Clinics and Health Centres,Private,144
+2020,Mzuzu,Clinics and Health Centres,Total,505
+2020,Zomba,Hospitals,Government,23
+2020,Zomba,Hospitals,Private,9
+2020,Zomba,Hospitals,Total,32
+2020,Zomba,Beds,Government,2024
+2020,Zomba,Beds,Private,909
+2020,Zomba,Beds,Total,2933
+2020,Zomba,Clinics and Health Centres,Government,382
+2020,Zomba,Clinics and Health Centres,Private,158
+2020,Zomba,Clinics and Health Centres,Total,540
+2020,Karonga,Hospitals,Government,20
+2020,Karonga,Hospitals,Private,12
+2020,Karonga,Hospitals,Total,32
+2020,Karonga,Beds,Government,1596
+2020,Karonga,Beds,Private,612
+2020,Karonga,Beds,Total,2208
+2020,Karonga,Clinics and Health Centres,Government,340
+2020,Karonga,Clinics and Health Centres,Private,125
+2020,Karonga,Clinics and Health Centres,Total,465
+2021,Malawi,Hospitals,Government,20
+2021,Malawi,Hospitals,Private,9
+2021,Malawi,Hospitals,Total,29
+2021,Malawi,Beds,Government,2742
+2021,Malawi,Beds,Private,675
+2021,Malawi,Beds,Total,3417
+2021,Malawi,Clinics and Health Centres,Government,367
+2021,Malawi,Clinics and Health Centres,Private,155
+2021,Malawi,Clinics and Health Centres,Total,522
+2021,Lilongwe,Hospitals,Government,17
+2021,Lilongwe,Hospitals,Private,8
+2021,Lilongwe,Hospitals,Total,25
+2021,Lilongwe,Beds,Government,1937
+2021,Lilongwe,Beds,Private,598
+2021,Lilongwe,Beds,Total,2535
+2021,Lilongwe,Clinics and Health Centres,Government,373
+2021,Lilongwe,Clinics and Health Centres,Private,143
+2021,Lilongwe,Clinics and Health Centres,Total,516
+2021,Blantyre,Hospitals,Government,18
+2021,Blantyre,Hospitals,Private,10
+2021,Blantyre,Hospitals,Total,28
+2021,Blantyre,Beds,Government,2213
+2021,Blantyre,Beds,Private,937
+2021,Blantyre,Beds,Total,3150
+2021,Blantyre,Clinics and Health Centres,Government,362
+2021,Blantyre,Clinics and Health Centres,Private,152
+2021,Blantyre,Clinics and Health Centres,Total,514
+2021,Mzuzu,Hospitals,Government,18
+2021,Mzuzu,Hospitals,Private,8
+2021,Mzuzu,Hospitals,Total,26
+2021,Mzuzu,Beds,Government,1005
+2021,Mzuzu,Beds,Private,644
+2021,Mzuzu,Beds,Total,1649
+2021,Mzuzu,Clinics and Health Centres,Government,364
+2021,Mzuzu,Clinics and Health Centres,Private,150
+2021,Mzuzu,Clinics and Health Centres,Total,514
+2021,Zomba,Hospitals,Government,22
+2021,Zomba,Hospitals,Private,17
+2021,Zomba,Hospitals,Total,39
+2021,Zomba,Beds,Government,1999
+2021,Zomba,Beds,Private,797
+2021,Zomba,Beds,Total,2796
+2021,Zomba,Clinics and Health Centres,Government,352
+2021,Zomba,Clinics and Health Centres,Private,144
+2021,Zomba,Clinics and Health Centres,Total,496
+2021,Karonga,Hospitals,Government,25
+2021,Karonga,Hospitals,Private,5
+2021,Karonga,Hospitals,Total,30
+2021,Karonga,Beds,Government,2295
+2021,Karonga,Beds,Private,551
+2021,Karonga,Beds,Total,2846
+2021,Karonga,Clinics and Health Centres,Government,348
+2021,Karonga,Clinics and Health Centres,Private,156
+2021,Karonga,Clinics and Health Centres,Total,504
